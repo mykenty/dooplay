@@ -1,0 +1,270 @@
+body {
+    line-height:1;
+    font-family:'Source Sans Pro', sans-serif;
+    font-size:1em;
+    position:relative;
+    color:#515253
+}
+fieldset, label, form, h1, blockquote, body, canvas, caption, p {
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+    vertical-align:baseline
+}
+* {
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box
+}
+input:focus, textarea:focus {
+    outline:0
+}
+a {
+    text-decoration:none;
+    color: #408bea;
+}
+.container {
+    float:left;
+    width:100%
+}
+.dt_box {
+    width: 380px;
+    margin:0 auto;
+}
+.form_dt_user {
+    background:#fff;
+    -webkit-box-shadow:0 0 50px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow:0 0 50px rgba(0, 0, 0, 0.2);
+    box-shadow:0 0 50px rgba(0, 0, 0, 0.2);
+    width:100%;
+    margin:50px 0;
+    margin-top:30px;
+    display:block;
+    float:left;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px
+}
+.form_dt_user form {
+    padding:20px 40px;
+    width:100%;
+    float:left
+}
+.form_dt_user header {
+    padding:20px 40px;
+    padding-bottom:5px;
+    float:left
+}
+.form_dt_user header h1 {
+    font-size:25px;
+    font-weight:400;
+    color:#aab4bb;
+    float:left;
+    line-height:32px
+}
+.logo {
+    width:100%;
+    float:left;
+    margin-top:30px;
+    text-align:center
+}
+.logo img {
+    width:auto;
+    height:32px
+}
+.login {
+    width:380px
+}
+.form_dt_user fieldset {
+    width:100%;
+    display:block;
+    margin-bottom:20px
+}
+.form_dt_user fieldset p {
+    width:100%;
+    display:block;
+    padding:10px 0;
+    font-size:14px;
+    color:#A7ABB5
+}
+.form_dt_user fieldset.min {
+    width:48%;
+    float:left
+}
+.fix {
+    margin-right:4%
+}
+.form_dt_user fieldset:last-child {
+    margin-bottom:0
+}
+.form_dt_user fieldset label {
+    width:100%;
+    display:block;
+    font-weight:400;
+    color:#222D34;
+    font-size:15px;
+    cursor:pointer;
+    margin-bottom:10px
+}
+.form_dt_user fieldset input[type="text"], .form_dt_user fieldset input[type="password"] {
+    border:0;
+    background:#FCFCFD;
+    border:1px solid #C7D6DB;
+    width:100%;
+    display:block;
+    padding:10px;
+    font-size:15px;
+    color:#222D34;
+    font-weight:600
+}
+.form_dt_user fieldset input[type="text"]:focus, .form_dt_user fieldset input[type="password"]:focus {
+    border:solid 1px #408bea;
+    background:#fff
+}
+.form_dt_user fieldset input[type="submit"] {
+    display:block;
+    background: #408bea;
+    border:0;
+    color:rgba(255, 255, 255, 0.5);
+    padding:11px 35px;
+    width:100%;
+    font-size:18px;
+    border-radius:3px;
+    float:left;
+    cursor:pointer;
+}
+.form_dt_user fieldset input[type="submit"]:hover {
+    color:#fff;
+}
+.form_dt_user fieldset span {
+    float:left;
+    font-size:14px;
+    margin-top:15px;
+    width:100%;
+    text-align:center
+}
+.form_dt_user .notice {
+    padding:20px 40px;
+    color:#fff;
+    font-size:15px;
+    font-weight:600;
+    float:left;
+    width:100%
+}
+.form_dt_user .alert {
+    background:#33D46D
+}
+.form_dt_user .error {
+    background:#FF6983
+}
+.g-recaptcha {
+    display:block;
+    margin-top:10px
+}
+.form_dt_user fieldset ::-webkit-input-placeholder {
+    color:#C7D6DB;
+    font-weight:400
+}
+.form_dt_user fieldset :-moz-placeholder {
+    color:#C7D6DB;
+    font-weight:400
+}
+.form_dt_user fieldset ::-moz-placeholder {
+    color:#C7D6DB;
+    font-weight:400
+}
+.form_dt_user fieldset :-ms-input-placeholder {
+    color:#C7D6DB;
+    font-weight:400
+}
+.passwordbox {
+    float:left;
+    width:100%;
+    height:4px;
+    position:relative;
+    margin-top:11px;
+    background:#F5F7FA
+}
+.passwordbox #passwordStrengthDiv {
+    height:4px;
+    position:absolute;
+    top:0
+}
+.is10 {
+    width:10%;
+    background:#D52800
+}
+.is20 {
+    width:20%;
+    background:#EE6002
+}
+.is30 {
+    width:30%;
+    background:#FF8A00
+}
+.is40 {
+    width:40%;
+    background:#FFB400
+}
+.is50 {
+    width:50%;
+    background:#E4C100
+}
+.is60 {
+    width:60%;
+    background:#B2E20C
+}
+.is70 {
+    width:70%;
+    background:#93D200
+}
+.is80 {
+    width:80%;
+    background:#7DC401
+}
+.is90 {
+    width:90%;
+    background:#73B401
+}
+.is100 {
+    width:100%;
+    background:#4DB401
+}
+.text_ft {
+    width:100%;
+    font-size:13px;
+    float:left;
+    text-align:center;
+    margin-bottom:25px
+}
+@media only screen and (max-width: 500px) {
+    body {
+        background:#fff
+    }
+    .dt_box {
+        width:100%
+    }
+    .form_dt_user {
+        margin:0;
+        -webkit-box-shadow:none;
+        -moz-box-shadow:none;
+        box-shadow:none
+    }
+    .form_dt_user form {
+        padding:20px 35px
+    }
+    .logo, .text_ft {
+        display:none
+    }
+    .form_dt_user {
+        border-radius:0;
+        -webkit-border-radius:0;
+        -moz-border-radius:0
+    }
+}
+@media only screen and (max-width: 320px) {
+    .form_dt_user form {
+        padding:20px 10px
+    }
+}

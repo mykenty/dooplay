@@ -1,0 +1,394 @@
+@media only screen and (max-width: 1130px) {
+    a.wide {
+        display:none
+    }
+    .fullplayer {
+        width:100%
+    }
+    .fullsidebar {
+        padding-top:10px!important
+    }
+    .player_sist .playex {
+        min-height: auto;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    footer.main .fbox .copy {
+        padding:20px
+    }
+    .fixed-sidebar {
+        position:relative;
+        width:100%
+    }
+    header.main .hbox .right {
+        display:none
+    }
+}
+@media only screen and (max-width: 768px) {
+    #edit_link .box {
+        top:60px;
+        left:0;
+        margin-top:0;
+        margin-left:0;
+        width:100%
+    }
+    #edit_link .box .form_edit {
+        width:100%
+    }
+    .page_user nav.user ul li.rrt {
+        display:none
+    }
+    .page_user nav.user ul li {
+        width:calc(100% / 4)
+    }
+    #items_movies, #items_tvshows {
+        padding-bottom:10px
+    }
+    .page_user .content .paged {
+        padding:0 20px
+    }
+    #message .sms {
+        margin-bottom:10px
+    }
+    .user_edit_control ul li a.selected:before {
+        border-width:10px;
+        margin-left:-10px
+    }
+    .user_edit_control {
+        margin-bottom:20px
+    }
+    .user_edit_control ul li a {
+        padding:13px 0;
+        font-size:13px
+    }
+    form.update_profile {
+        padding:20px 30px
+    }
+    .page_user nav.user ul li a {
+        padding:10px 15px;
+        font-weight:300
+    }
+    form.update_profile fieldset {
+        padding:0;
+        margin-bottom:10px
+    }
+    .page_user {
+        width:100%;
+        padding:3px 0;
+        margin: 0;
+    }
+    .page_user header.user .box {
+        height:70px;
+        padding:10px
+    }
+    .page_user header.user .box .contenido .name h2 {
+        font-size:18px;
+        line-height:25px
+    }
+    .page_user header.user .box .gravatar {
+        width:50px
+    }
+    .page_user header.user .box .contenido {
+        padding-left:60px
+    }
+    .page_user header.user .box .contenido .name {
+        display:none
+    }
+    .page_user header.user .box .contenido .name p {
+        display:none
+    }
+    .page_user header.user .box .contenido .info {
+        width:100%
+    }
+    .page_user header.user .box .contenido .info span {
+        margin:4px 0
+    }
+    .ds1 .content {
+        margin-left:0
+    }
+    .fix_playerx {
+        margin-top:0
+    }
+    #single .episodes_cont .sbox {
+        padding:20px
+    }
+    header.main, footer.main, .module .content .items .item:hover>.dtinfo, .pagination {
+        display:none
+    }
+    .resppages {
+        display:block
+    }
+    .module .content, .module .sidebar {
+        width:100%;
+        margin-left:0;
+        padding:10px
+    }
+    #contenedor {
+        width:100%;
+        margin:53px auto 0
+    }
+    .module {
+        margin-bottom:0;
+        margin-top:0;
+        border-top:0
+    }
+    .contact, .account {
+        margin:0
+    }
+    .contact .wrapper {
+        padding:20px
+    }
+    .module .sidebar {
+        position:relative
+    }
+    #single {
+        margin-bottom:0
+    }
+    ul.main_links li a.active {
+        border-left:0;
+        border-radius:3px;
+        -webkit-border-radius:3px;
+        -moz-border-radius:3px
+    }
+    header.responsive, .search_responsive {
+        display:block
+    }
+    .sidblock, .formblock {
+        display:block!important;
+        -moz-transition:top .4s ease-in-out;
+        -o-transition:top .4s ease-in-out;
+        -webkit-transition:top .4s ease-in-out;
+        -ms-transition:top .4s ease-in-out;
+        transition:top .4s ease-in-out
+    }
+    #single .content {
+        width:100%;
+        border-right:0
+    }
+    #single .sidebar {
+        width:100%;
+        border-left:0;
+        margin-left:0;
+        position:relative
+    }
+    .single-page {
+        margin-top:0
+    }
+    .nav_items_module {
+        margin-left:15px
+    }
+    .nav_items_module a.btn {
+        font-size:25px;
+        border:solid 1px rgba(136, 136, 136, 0.3);
+        padding:0 12px;
+        margin:0 2px
+    }
+    .module .content header span, .module .content header {
+        line-height:30px
+    }
+}
+@media only screen and (max-width: 667px) {
+    .dt_social_single a.whatsapp {
+        display:block
+    }
+    .sheader .poster {
+        width:110px
+    }
+    .sheader .data {
+        width:calc(100% - 130px);
+        margin-left:130px
+    }
+}
+@media only screen and (max-width: 600px) {
+    .link_sharing {
+        width:100%;
+        top:0;
+        margin-left:0;
+        left:0;
+        position:absolute;
+        margin-top:-53px;
+        -moz-box-shadow:none;
+        -webkit-box-shadow:none;
+        box-shadow:none
+    }
+    .account .sidebar {
+        width:170px
+    }
+    .account .content {
+        width:calc(100% - 170px);
+        margin-left:170px
+    }
+    article.simple {
+        width:calc(100% / 3)
+    }
+    .blog-list-items .entry {
+        width:100%
+    }
+    .report-video-active {
+        width:100%;
+        left:0;
+        top:0;
+        margin-top:0;
+        margin-left:0;
+        position:absolute
+    }
+}
+@media only screen and (max-width: 540px) {
+    a.report-video span, .dt_social_single a b {
+        display:none
+    }
+    .owl-theme .owl-controls .owl-page span {
+        width:10px
+    }
+    .starstruck-wrap {
+        display:none
+    }
+    .slider article.item {
+        width:100%
+    }
+    .module .content .items .item {
+        width:calc(100%/ 3);
+        padding:5px
+    }
+    .se_rating, 
+    span.sl-wrapper, 
+    .grid-container .form-description, 
+    .player_sist .control span.views {
+        display:none
+    }
+    .custom_fields {
+        width:100%
+    }
+    .custom_fields b.variante {
+        width:100%
+    }
+    .custom_fields span.valor {
+        width:100%;
+        margin-top:15px
+    }
+    ul.smenu {
+        padding:10px;
+        width:100%
+    }
+    ul.smenu li {
+        width:50%;
+        padding:2px
+    }
+    ul.smenu li a {
+        text-shadow:none;
+        font-size:14px;
+        font-weight:500;
+        text-align:center;
+        padding:10px 15px
+    }
+    ul.smenu li a.selected {
+        margin-bottom:0
+    }
+    .link_sharing p input[type=submit] {
+        width:100%
+    }
+    .no-result h2 {
+        font-size:20px
+    }
+    .no-result {
+        padding:10px
+    }
+    .posts {
+        padding:20px
+    }
+    .player_sist {
+        margin:0
+    }
+    .person {
+        width:100%
+    }
+}
+@media only screen and (max-width: 480px) {
+    .login_box {
+        width:100%;
+        top:50px;
+        left:0;
+        margin-left:0
+    }
+    form.update_profile fieldset input[type=submit] {
+        width:100%
+    }
+    .pag_episodes .item a span {
+        display:none
+    }
+    .module .content .items .episodes {
+        width:50%;
+        padding:5px
+    }
+    .account .sidebar {
+        position:relative;
+        width:100%
+    }
+    .account .content {
+        width:100%;
+        margin-left:0;
+        padding:15px
+    }
+    .epiheader .epidata h3 {
+        font-size:25px
+    }
+    .top-imdb-list {
+        width:100%
+    }
+    .tleft {
+        padding-right:0;
+        border-right:0
+    }
+    .tright {
+        padding-left:0
+    }
+    .result-item article {
+        padding-left:110px
+    }
+    .result-item article .image {
+        width:90px;
+        height:90px
+    }
+    .player_sist .control span.qualityx {
+        display:none
+    }
+}
+@media only screen and (max-width: 424px) {
+    .dt_social_single span {
+        display:none
+    }
+    .module .content .items .episodes {
+        width:50%;
+        padding:5px
+    }
+    .posts .meta .views {
+        display:none
+    }
+    .dt_social_single a {
+        margin-right:0;
+        border-radius:0;
+        width:calc(100%/5);
+        text-align:center;
+        padding:13px 0
+    }
+    .dt_social_single a i {
+        float:initial;
+        font-size:20px
+    }
+    .dt_social_single {
+        text-align:center;
+        position:fixed;
+        bottom:0;
+        left:0;
+        z-index:1
+    }
+}
+@media only screen and (max-width: 320px) {
+    .module .content .items .episodes {
+        width:100%;
+        padding:5px
+    }
+    .module .content .items .item {
+        width:calc(100%/ 3)
+    }
+}

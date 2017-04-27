@@ -1,0 +1,414 @@
+body.toplevel_page_dbmovies-org {
+    background-color: #f3f6f8;
+}
+body.toplevel_page_dbmovies-org a {
+    text-decoration: none;
+}
+body.toplevel_page_dbmovies-org a:focus {
+    box-shadow:none
+}
+body.toplevel_page_dbmovies-org * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.toplevel_page_dbmovies-org #wpcontent {
+    padding-left: 0;
+}
+.dt_importer_wrap header.dt_importer {
+    float: left;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 1px 0 rgba(200,215,225,0.5), 0 1px 2px #e9eff3;
+    margin-bottom: 25px;
+}
+.dt_importer_wrap header.dt_importer .box {
+    width: 800px;
+    margin: 0 auto;
+}
+.dt_importer_wrap header.dt_importer .box h1 {
+    float: left;
+    margin: 0;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 11px 0;
+    line-height: 26px;
+}
+.dt_importer_wrap header.dt_importer .box h1 img {
+    height: 28px;
+    width: auto;
+    float: left;
+    margin-right: 10px;
+}
+.dt_importer_wrap header.dt_importer .box h1 strong {
+    font-weight: 500;
+}
+.dt_importer_wrap header.dt_importer .box h1 i {
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.51);
+}
+.dt_importer_wrap header.dt_importer .box ul {
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+.dt_importer_wrap header.dt_importer .box ul li {
+    float: left;
+    margin: 0;
+    padding: 0 13px;
+}
+.dt_importer_wrap header.dt_importer .box ul li:last-child {
+    padding-right: 0;
+}
+.dt_importer_wrap header.dt_importer .box ul li a {
+    float: left;
+    padding: 16px 0;
+    font-size: 13px;
+    font-weight: 400;
+}
+.dt_importer_wrap .dt_importer_contaiter {
+    width: 800px;
+    margin: 0 auto;
+}
+.dt_importer_contaiter ::-webkit-input-placeholder {
+    color: #b9cad6;
+    font-weight: 400;
+}
+.dt_importer_contaiter ::-moz-placeholder {
+    color: #b9cad6;
+    font-weight: 400;
+}
+.dt_importer_contaiter :-ms-input-placeholder {
+    color: #b9cad6;
+    font-weight: 400;
+}
+.dt_importer_contaiter :-moz-placeholder {
+    color: #b9cad6;
+    font-weight: 400;
+}
+.dt_importer_contaiter .dt_imp_menu {
+    float: left;
+    margin-bottom: 25px;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 0 0 1px rgba(200,215,225,0.5), 0 1px 2px #e9eff3;
+}
+.dt_importer_contaiter .dt_imp_menu ul {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.dt_importer_contaiter .dt_imp_menu ul li {
+    float: left;
+    margin: 0;
+    padding: 15px;
+    font-size: 14px;
+    color: #0073aa;
+    cursor: pointer;
+}
+.dt_importer_contaiter .dt_imp_menu ul li.current {
+    color: #2e4453;
+    border-bottom: 2px solid;
+    margin-bottom: -1px;
+}
+.dt_importer_contaiter .content {
+    float: left;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 25px;
+    background-color: #fff;
+    box-shadow: 0 0 0 1px rgba(200,215,225,0.5), 0 1px 2px #e9eff3;
+    padding: 20px;
+}
+.dt_importer_contaiter .tab-content {
+    display: none;
+}
+.dt_importer_contaiter .tab-content section {
+    width: 50%;
+    float: left;
+    padding: 0 17px;
+}
+.dt_importer_contaiter .tab-content section.right {
+    border-left: solid 1px #dee6ec;
+    margin-right: -1px;
+}
+.dt_importer_contaiter .tab-content.current {
+    display: inherit;
+}
+.dt_importer_contaiter form.form_importer_dt input[type="text"], 
+.dt_importer_contaiter form.form_importer_dt input[type="url"] {
+    width: 100%;
+    font-size: 13px;
+    padding: 10px;
+    margin-right: 15px;
+    color: #4caf50;
+    font-weight: 600;
+}
+.dt_importer_contaiter form.form_importer_dt input[type="number"] {
+    width: 170px;
+    font-size: 16px;
+    padding: 10px;
+    margin-right: 15px;
+    height: 35px;
+}
+.dt_importer_contaiter form.form_importer_dt input[type="submit"] {
+    height: 33px;
+    width: 100%;
+}
+.dt_importer_contaiter .content h1 {
+    color: #47607B;
+    font-size: 14px;
+    margin-top: 0;
+}
+.dt_importer_contaiter .content h1 a.url_imdb {
+    float: right;
+    margin-right: 10px;
+    margin-top: -5px;
+}
+.dt_importer_contaiter .content h1 a.url_imdb span.dashicons {
+    font-size: 29px;
+}
+.dt_importer_contaiter .content h1 i {
+    color: #FFC107;
+    font-size: 30px;
+    float: left;
+    margin-right: 20px;
+    margin-top: -4px;
+}
+.dt_importer_contaiter .content h1 b {
+    color: #00BCD4;
+}
+.dt_importer_contaiter .content .dtlist { 
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+}
+.dt_importer_contaiter .content .dtlist article {
+    width: 100%;
+    float: left;
+    padding: 30px 20px;
+    padding-left: 65px;
+    font-size: 13px;
+    position: relative;
+    color: #47607B;
+}
+.dt_importer_contaiter .content .dtlist article .img {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 45px;
+}
+.dt_importer_contaiter .content .dtlist article .no_img {
+    position: absolute;
+    top: 15px;
+    left: 5px;
+    width: 45px;
+    height: 45px;
+    background: #607D8B;
+}
+.dt_importer_contaiter .content .dtlist article .no_img span {
+    color: #ffffff;
+    padding: 10px 0px;
+    font-size: 27px;
+    float: left;
+    margin-left: 9px;
+}
+.dt_importer_contaiter .content .dtlist article .img img {
+    width: 100%;
+    height: auto;
+}
+.dt_importer_contaiter .content .dtlist article:nth-child(odd) {
+    background-color: #f3f6f8;
+}
+.dt_importer_contaiter .content .dtlist article span {
+    margin: 0 10px;
+}
+.dt_importer_contaiter .content .dtlist article span a {
+    background: #009688;
+    color: #fff;
+    padding: 2px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+}
+.dt_importer_contaiter .content .dtlist article span a:hover {
+    background: #4CAF50;
+}
+.dt_importer_contaiter .content .dtlist article i {
+    float: right;
+    font-style: normal;
+    font-weight: 600;
+}
+#load_more_imdb_link, #load_more_tmdb_link, #load_more_search {
+    cursor: pointer;
+    float: left;
+    text-align: center;
+    padding: 9px 0;
+    font-weight: 600;
+    margin-top: 20px;
+    width: 100%;
+    border: solid 1px #f5f7fa;
+}
+.dt_importer_contaiter .content .dtlist article span.import_completed {
+    background: #4caf50;
+    color: #fff;
+    padding: 2px 15px;
+    border-radius: 4px;
+}
+.dt_importer_contaiter .content span.spinner {
+    visibility: inherit;
+    float: left;
+    margin: 0;
+    margin-right: 15px;
+}
+.dt_importer_contaiter .content p.desc {
+    margin: 0;
+    width: 100%;
+    float: left;
+}
+.dt_importer_contaiter .dt_imp_menu #add_data_post {
+    float: right;
+}
+.dt_importer_contaiter .dt_imp_menu #add_data_post p {
+    margin: 0;
+    padding: 15px;
+    font-size: 13px;
+}
+.dt_importer_contaiter .dt_imp_menu #add_data_post p span.spinner {
+    float: left;
+    visibility: inherit;
+    margin: 0;
+    margin-right: 10px;
+}
+.dt_importer_contaiter .dt_imp_menu #add_data_post p span.import_completed {
+    background: #4CAF50;
+    color: #fff;
+    padding: 3px 15px;
+    float: left;
+    margin-right: 8px;
+    margin-top: -2px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 3px;
+}
+.skillbar {
+    position:relative;
+    display:block;
+    margin-bottom: 30px;
+    width:100%;
+    background: #f3f6f8;
+    height: 25px;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    -webkit-transition:0.4s linear;
+    -moz-transition:0.4s linear;
+    -ms-transition:0.4s linear;
+    -o-transition:0.4s linear;
+    transition:0.4s linear;
+    -webkit-transition-property:width, background-color;
+    -moz-transition-property:width, background-color;
+    -ms-transition-property:width, background-color;
+    -o-transition-property:width, background-color;
+    transition-property:width, background-color;
+}
+.skillbar-title {
+    position:absolute;
+    top:0;
+    left:0;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.84);
+    background: rgba(0, 0, 0, 0.02);
+    -webkit-border-top-left-radius:3px;
+    -webkit-border-bottom-left-radius:4px;
+    -moz-border-radius-topleft:3px;
+    -moz-border-radius-bottomleft:3px;
+    border-top-left-radius:3px;
+    border-bottom-left-radius:3px;
+    text-align: right;
+}
+.skillbar-title span {
+    display:block;
+    background: rgba(0, 0, 0, 0.5);
+    padding:0 20px;
+    height: 25px;
+    width: 120px;
+    line-height: 25px;
+    -webkit-border-top-left-radius:3px;
+    -webkit-border-bottom-left-radius:3px;
+    -moz-border-radius-topleft:3px;
+    -moz-border-radius-bottomleft:3px;
+    border-top-left-radius:3px;
+    border-bottom-left-radius:3px;
+}
+.skillbar-bar {
+    height: 25px;
+    width:0px;
+    background:#6adcfa;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+.skill-bar-percent {
+    position:absolute;
+    right:10px;
+    top:0;
+    font-size:11px;
+    height: 24px;
+    line-height: 26px;
+    color:#444;
+    color:rgba(0, 0, 0, 0.4);
+}
+span.imported {
+    background: #4CAF50;
+    color: #fff;
+    padding: 2px 10px;
+    border-radius: 4px;
+    font-size: 13px;
+    cursor: not-allowed;
+    opacity: 0.3;
+}
+form.search_all .box {
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 45px;
+    background: #f3f6f8;
+    border: solid 1px #dbe4eb;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+form.search_all .box:hover {
+    background: #fff;
+}
+form.search_all .box input[type="text"] {
+    background: transparent;
+    box-shadow:none;
+    border: 0;
+    float: left;
+    width: 100%;
+    height: 41px;
+    padding: 0 10px;
+}
+form.search_all .box input[type="text"]:focus {
+    box-shadow:none;
+    border: 0;
+}
+form.search_all .box button {
+    position: absolute;
+    top: 7px;
+    right: 10px;
+}
+form.search_all label {
+    float: left;
+    padding-top: 23px;
+    padding-right: 20px;
+}
+form.search_all label input[type="number"] {
+    width: 70px;
+    float: left;
+    margin-top: -6px;
+}

@@ -1,0 +1,1 @@
+plyr.setup('.dt_player_video');

@@ -1,0 +1,426 @@
+table.dt_table_admin {
+    width:100%;
+    padding:0 10px
+}
+table.dt_table_admin thead {
+    color:#000;
+    border-bottom:solid 1px #000
+}
+table.dt_table_admin thead tr {
+}
+table.dt_table_admin thead tr th {
+    text-align:left;
+    font-size:14px;
+    padding:10px 5px;
+    border-bottom:solid 1px #EEE
+}
+table.dt_table_admin tbody tr td {
+    padding:10px;
+    border-bottom:solid 1px #EEE;
+    background:#FDFDFD
+}
+table.dt_table_admin tbody tr td.center {
+    text-align: center;
+}
+table.dt_table_admin tbody tr:last-child td {
+    border-bottom:0
+}
+table.dt_table_admin tbody tr td input[type="text"], 
+table.dt_table_admin tbody tr td input[type="url"] {
+    padding:7px
+}
+table.dt_table_admin tbody tr td select {
+    padding:7px;
+    height:35px
+}
+#links-links p {
+    width:100%;
+    padding:0 10px;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    margin-bottom:20px
+}
+#links-links p label {
+    font-weight:600
+}
+#links-links p input[type="text"] {
+    width:100%;
+    padding:5px;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box
+}
+#links-links p select {
+    width:100%;
+    padding:8px;
+    height:auto
+}
+a.dt_activate {
+    color:#FFF;
+    background:#FF0080;
+    border-left:solid 1px #FF0080;
+    border-top:solid 1px #FF0080;
+    border-right:solid 1px #FF0080
+}
+.dtloadpage {
+    display:none;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:99999999;
+    width:100%;
+    height:100%;
+    background:rgba(255, 255, 255, 0.9)
+}
+.dtloadpage .dtloadbox {
+    width:500px;
+    margin:5% auto;
+    text-align:center
+}
+.dtloadpage .dtloadbox img {
+    width:auto;
+    height:auto;
+    margin:0 auto
+}
+.dtloadpage .dtloadbox span {
+    font-size:30px;
+    color:#5B9DD9;
+    width:100%;
+    float:left;
+    margin:20px 0
+}
+.dtloadpage .dtloadbox p {
+    width:100%;
+    float:left;
+    color:#A7A7A7;
+    font-size:12px
+}
+li.movies-count a:before {
+    content:"\f219"!important
+}
+li.seasons-count a:before {
+    content:"\f115"!important
+}
+li.tvshows-count a:before {
+    content:"\f115"!important
+}
+li.episodes-count a:before {
+    content:"\f522"!important
+}
+li.dt_links-count a:before {
+    content:"\f103"!important
+}
+#mt_metabox {
+}
+#mt_metabox .inside {
+    margin:0;
+    padding:0
+}
+table.dt-options-table {
+    margin:0px;
+    border-width:0px;
+    position:relative;
+    width:100%;
+    border-collapse:collapse
+}
+table.dt-options-table td {
+    border-top:1px solid #f0f0f0;
+    padding:13px 15px
+}
+table.dt-options-table td h3 {
+    font-size:1.2em;
+    margin:0.5em 0;
+    color:#000
+}
+table.dt-options-table td.label .description {
+    display:block;
+    padding:0 !important;
+    margin:3px 0 0 !important;
+    color:#aaa
+}
+table.dt-options-table td.label {
+    width:30%;
+    vertical-align:top;
+    background:#FDFDFD;
+    border-right:1px solid #f0f0f0
+}
+table.dt-options-table td.label label {
+    font-weight:600;
+    margin-bottom:3px;
+    display:block
+}
+table.dt-options-table td.field {
+    border-top:1px solid #f0f0f0;
+    padding:13px 15px;
+    position:relative
+}
+table.dt-options-table td.field input[type="text"], table.dt-options-table td.field input[type="date"] {
+    width:99%;
+    height:30px
+}
+table.dt-options-table td.field input.regular-text {
+    width:25em
+}
+table.dt-options-table td.field input.small-text {
+    width:21em
+}
+table.dt-options-table td.field input.extra-small-text {
+    width:10em
+}
+table.dt-options-table td.field textarea {
+    width:99%
+}
+table.dt-options-table td.field .description {
+    font-style:normal;
+    font-size:12px
+}
+.mundothemes_box {
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box
+}
+.mundothemes_box .mttext {
+    width:100% !important;
+    font-size:30px;
+    padding:10px 30px;
+    color:#002C45 !important;
+    margin:0;
+    border:0;
+    background:#FBFBFB
+}
+.mundothemes_box p.description {
+    font-size:12px;
+    font-style:normal;
+    margin-bottom:15px
+}
+.mundothemes_box .activel {
+    width:100%;
+    height:2px;
+    background:#4AC755;
+    margin-top:0
+}
+.mundothemes_box .noactivel {
+    width:100%;
+    height:2px;
+    background:#E68080;
+    margin-top:0
+}
+.mundothemes_box .button {
+    margin:0 1%
+}
+.mundothemes_box h2 {
+    float:left;
+    margin:0;
+    font-size:20px;
+    line-height:28px
+}
+.mundothemes_box span.notas {
+    padding:10px 2%;
+    margin-bottom:0;
+    float:left;
+    width:96%;
+    border-radius:3px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    position:relative
+}
+.mundothemes_box span.oknotas {
+    background:#4AC755;
+    color:#23282D
+}
+.mundothemes_box span.nonotas {
+    background:#F1F1F1
+}
+.mundothemes_box .mttext:focus {
+    box-shadow:none
+}
+.mundothemes_box .dt_boxg {
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    width:600px;
+    padding:15px 25px;
+    background:#fff
+}
+img.mundothemes {
+    float:right
+}
+.widget_note_muntothemes {
+    padding:20px;
+    background-color:#EFEDD9;
+    margin:25px 0;
+    text-align:center;
+    color:#4C4932;
+    -webkit-border-radius:6px;
+    -moz-border-radius:6px;
+    border-radius:6px
+}
+#widget-list [id*='_dtw_'] .widget-top {
+    background: #94e8ff;
+    border-color: rgba(0, 0, 0, 0.3);
+}
+#widget-list [id*='_dtw_'] .widget-top h3 {
+    color:#000
+}
+#widget-list [id*='_dts_'] .widget-top {
+    background: #b8ff94;
+    border-color: rgba(0, 0, 0, 0.3);
+}
+#widget-list [id*='_dts_'] .widget-top h3 {
+    color:#000
+}
+table.dt_table_admin tbody tr td.text_player {
+    background:#FDFDFD;
+    border-right:solid 1px #F0F0F0
+}
+table.dt-options-table td ::-webkit-input-placeholder {
+    color:#ddd
+}
+table.dt-options-table td :-moz-placeholder {
+    color:#ddd
+}
+table.dt-options-table td ::-moz-placeholder {
+    color:#ddd
+}
+table.dt-options-table td :-ms-input-placeholder {
+    color:#ddd
+}
+img.dt_poster_preview {
+    width:185px!important;
+    height:auto!important
+}
+.rebskt p {
+    font-size:14px
+}
+li.dt_dooplay_menu a {
+}
+input[type=text].dt_valid {
+    color:#24c52a;
+    border:solid 1px #8BC34A
+}
+input[type=text].dt_valid:before {
+    font-family:dashicons;
+    content:"\f240"
+}
+input[type=text].dt_invalid {
+    color:#fd3b3b;
+    border:solid 1px #ff5757
+}
+input[type=text].dt_text_license {
+    font-size:30px;
+    padding:5px 15px
+}
+.about-wrap .changelog h2.dt_text_h2 {
+    margin-top:20px;
+    float:left
+}
+.about-wrap .dt_div_fix {
+    margin-bottom:0px
+}
+span.status_dt_license {
+    width:100%;
+    padding:10px 0;
+    float:left;
+    margin-bottom:20px
+}
+table.edd_table {
+    padding:25px 0;
+    width:100%
+}
+table.edd_table tr td {
+    padding:10px 10px;
+    color:#888;
+    font-size:13px;
+    border-bottom:solid 1px #ddd
+}
+table.edd_table tr td.title {
+    font-weight:600;
+    padding-left:0;
+    color:#000;
+    font-size:12px;
+    padding-right:20px;
+    width:200px
+}
+table.edd_table tr:last-child>td {
+    border-bottom:0;
+    padding-bottom:0
+}
+span.valid_dt_key_info {
+    background:#09c34d;
+    color:#fff;
+    padding:3px 10px 2px;
+    font-weight:600
+}
+div.h2_dt_boxs {
+    max-width:850px
+}
+span.dt_report_video {
+    background:#ff0303;
+    color:#fff;
+    padding:0 5px;
+    font-weight:600;
+    border-radius:3px
+}
+.dt_permaliks_input {
+    width:10em
+}
+p.repeater {
+    padding:0 10px;
+    padding-bottom:10px
+}
+a.add_row {
+    display:block;
+    border:1px dashed #0076aa;
+    padding:7px;
+    background:#fdfdfd;
+    border-radius:2px;
+    text-align:center;
+    font-weight:400;
+    cursor:pointer;
+    -webkit-transition:background 0.3s;
+    -moz-transition:background 0.3s;
+    -ms-transition:background 0.3s;
+    -o-transition:background 0.3s;
+    transition:background 0.3s;
+    text-decoration:none
+}
+a.add_row:hover {
+    background:#edf9ff
+}
+a.add_row {
+    -webkit-box-shadow:none;
+    box-shadow:none;
+    outline:0
+}
+a.remove-row {
+    width:100%;
+    text-align:center
+}
+#widgets-home h2:before, #widgets-home h3:before {
+    content: '';
+    width: 10px;
+    height: 17px;
+    float: left;
+    background: #6acc39;
+    margin-right: 10px;
+}
+#sidebar-movies h2:before, #sidebar-tvshows h2:before, #sidebar-seasons h2:before, #sidebar-posts h2:before {
+    content: '';
+    width: 10px;
+    height: 17px;
+    float: left;
+    background: #43b9da;
+    margin-right: 10px;
+}
+h4.dth4w {
+    font-size: 20px;
+    border-bottom: solid 4px #f1f1f1;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+td.draggable {
+    width: 22px;
+    color: #dee0e2;
+    cursor: move;
+}

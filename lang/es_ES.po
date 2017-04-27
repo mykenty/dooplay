@@ -1,0 +1,2883 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: DooPlay\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Doothemes <doothemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Language: es\n"
+"X-Generator: Poedit 2.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add Image"
+msgstr "Agregar imagen"
+
+msgid "Add to gallery"
+msgstr "Agregar a galleria"
+
+msgid "Advertising"
+msgstr "Anuncios"
+
+msgid "Air date"
+msgstr "fecha de transmisión"
+
+msgid "Assign ID IMDb, example (http://www.imdb.com/title/tt0120338/) = <b>tt0120338</b>"
+msgstr "Asignar ID de titulo IMDb, ejemplo (http://www.imdb.com/title/tt0120338/) = <b>tt0120338</b>"
+
+msgid "Awards"
+msgstr "Premios"
+
+msgid "Backdrop"
+msgstr "Telón de fondo"
+
+msgid "Backdrops - Place each image url below another"
+msgstr "Telones de fondo - coloque cada dirección url de la imagen a continuación de otro"
+
+msgid "Budget"
+msgstr "Presupuesto"
+
+msgid "Bulk actions"
+msgstr "Acciones en bloque"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Customize"
+msgstr "Personalizar"
+
+msgid "Data"
+msgstr "Datos"
+
+msgid "Episode Title"
+msgstr "Título de episodio"
+
+msgid "Episode runtime"
+msgstr "Duración de episodios"
+
+msgid "Episodes"
+msgstr "Episodios"
+
+msgid "Featured image episode"
+msgstr "Imagen destacada del episodio"
+
+msgid "Firt air date"
+msgstr "Fecha de lanzamiento"
+
+msgid "Generate"
+msgstr "Generar"
+
+msgid "Generate Data (TMDb)"
+msgstr "Generar datos (TMDb)"
+
+msgid "Generate data from IMDb"
+msgstr "Generar datos con IMDb"
+
+msgid "Generating episodes"
+msgstr "Generando episodios"
+
+msgid "Generating seasons"
+msgstr "Generando temporadas"
+
+msgid "Hello Admin, activate theme"
+msgstr "Active su licencia para habilitar todas las funciones del tema incluyendo las actualizaciones."
+
+msgid "Home Page"
+msgstr "Página Principal"
+
+msgid "Home page"
+msgstr "Página Principal"
+
+msgid "IMDB Rating"
+msgstr "IMDB Promedio"
+
+msgid "IMDB votes"
+msgstr "IMDb votos"
+
+msgid "Images"
+msgstr "Imágenes "
+
+msgid "Last air date"
+msgstr "Última transmisión"
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "Main Backdrop"
+msgstr "Telón de fondo principal"
+
+msgid "Media"
+msgstr "Multimedia"
+
+msgid "Movie Info"
+msgstr "Información de la Película"
+
+msgid "No image selected"
+msgstr "No hay imágenes seleccionadas"
+
+msgid "Number of episode: 4"
+msgstr "Número de episodio: 4"
+
+msgid "Number of episodes"
+msgstr "Número de episodios"
+
+msgid "Number of season: 1"
+msgstr "Número de temporada: 1"
+
+msgid "Number of seasons"
+msgstr "Número de temporadas"
+
+msgid "Original Name"
+msgstr "Nombre original"
+
+msgid "Original title"
+msgstr "Título original"
+
+msgid "Permalinks"
+msgstr "Enlaces permanetes"
+
+msgid "Popularity"
+msgstr "Popularidad"
+
+msgid "Poster"
+msgstr "Poster"
+
+msgid "Poster Serie"
+msgstr "Poster de la serie"
+
+msgid "Rated"
+msgstr "Audiencia"
+
+msgid "Release Date"
+msgstr "Fecha de estreno"
+
+msgid "Revenue"
+msgstr "Ingresos"
+
+msgid "Reverse current order"
+msgstr "Revertir orden actual"
+
+msgid "Runtime"
+msgstr "Duración"
+
+msgid "Save Options"
+msgstr "Guardar opciones"
+
+msgid "Season"
+msgstr "Temporada"
+
+msgid "Season name"
+msgstr "Nombre de temporada"
+
+msgid "Serie"
+msgstr "Serie"
+
+msgid "Social Network"
+msgstr "Redes sociales"
+
+msgid "Sort by date modified"
+msgstr "Ordenar por fecha de modificación"
+
+msgid "Sort by date uploaded"
+msgstr "Ordenar por Fecha de carga"
+
+msgid "Sort by title"
+msgstr "Ordenar por título"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Support form"
+msgstr "Formulario de contacto"
+
+msgid "TMDb ID"
+msgstr "TMDb ID"
+
+msgid "TMDb Rating"
+msgstr "Calificación de TMDb"
+
+msgid "TMDb votes"
+msgstr "TMDb votos"
+
+msgid "TVShow ID: 1402"
+msgstr "TVShow ID: 1402"
+
+msgid "TVShows Info"
+msgstr "Información de la serie"
+
+msgid "Tag line"
+msgstr "Lema de la Película"
+
+msgid "Theme Settings"
+msgstr "Ajustes del theme"
+
+msgid "Tools"
+msgstr "Herramientas"
+
+msgid "Trailer ID Youtube"
+msgstr "Trailer YouTube ID "
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "URL Poster (optional)"
+msgstr "URL Poster(opcional)"
+
+msgid "Upload"
+msgstr "Cargar"
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "Vote Average"
+msgstr "Voto Promedio"
+
+msgid "Vote Count"
+msgstr "Conteo de votos"
+
+msgid "[Yotube] Opening video"
+msgstr "[Youtube] Video"
+
+msgid "here"
+msgstr "aquí"
+
+msgid "not close this page to complete the upload"
+msgstr "no cierre la página hasta completar la carga."
+
+msgid "seasons Info"
+msgstr "información temporada"
+
+msgid "Options Updated"
+msgstr "Opciones actualizadas."
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Activate your license to install future updates"
+msgstr "Active su licencia para instalar futuras actualizaciones."
+
+msgid "License activated, thanks."
+msgstr "Licencia activa, Gracias."
+
+msgid "Director"
+msgstr "Director"
+
+msgid "Creator"
+msgstr "Creador"
+
+msgid "Protagonists"
+msgstr "Protagonistas"
+
+msgid "Cast"
+msgstr "Reparto"
+
+msgid "Studio"
+msgstr "Estudio"
+
+msgid "Networks"
+msgstr "Networks"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "Genres"
+msgstr "Géneros"
+
+msgid "Episode"
+msgstr "Epidosio"
+
+msgid "Seasons"
+msgstr "Temporadas"
+
+msgid "Movies"
+msgstr "Películas"
+
+msgid "TV Shows"
+msgstr "Series de TV"
+
+msgid "Generate Episodes"
+msgstr "Generar episodios"
+
+msgid "Generate seasons"
+msgstr "Generar temporadas"
+
+msgid "Title episode"
+msgstr "Título de episodio"
+
+msgid "Theme License"
+msgstr "Código de licencia"
+
+msgid "Enter your theme license key."
+msgstr "Introduzca su código de licencia del tema."
+
+msgid "License Key"
+msgstr "Codigo de licencia"
+
+msgid "Deactivate License"
+msgstr "Desactivar Licencia"
+
+msgid "Activate License"
+msgstr "Activar licencia"
+
+msgid "License status is unknown."
+msgstr "El estado de la licencia es desconocido."
+
+msgid "Renew?"
+msgstr "Renovar ahora!"
+
+msgid "unlimited"
+msgstr "ilimitado"
+
+msgid "License key is active."
+msgstr "Licencia activada,"
+
+msgid "Expires %s."
+msgstr "expira %s."
+
+msgid "You have %1$s / %2$s sites activated."
+msgstr "tiene %1$s de %2$s activaciones disponibles."
+
+msgid "License key expired %s."
+msgstr "Código de licencia expiro %s."
+
+msgid "License key has expired."
+msgstr "Su licencia esta expirada."
+
+msgid "License keys do not match."
+msgstr "El código no es valido, verifique su autenticidad."
+
+msgid "License is inactive."
+msgstr "Licencia inactiva"
+
+msgid "License key is disabled."
+msgstr "Código de licencia deshabilitado."
+
+msgid "Site is inactive."
+msgstr "Este sitio no tiene acceso a las actualizaciones."
+
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr "La actualización de este tema podría perjudicar cualquier personalización que haya realizado 'Cancelar' para detener, 'OK' para actualizar."
+
+msgid "<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>."
+msgstr "<strong>%1$s %2$s</strong> está disponible. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">Registro de cambios</a> / <a href=\"%5$s\"%6$s>Actualizar Ahora</a>."
+
+msgid "Customize theme"
+msgstr "Personalizar tema"
+
+#: core/input.php:533
+msgid "%s value is required"
+msgstr "El valor de (%s)  es requerido"
+
+msgid "Run time"
+msgstr "Duración"
+
+msgid "vote"
+msgid_plural "votes"
+msgstr[0] "voto"
+msgstr[1] "votos"
+
+msgid "(1) comment"
+msgid_plural "(%1$s) comments"
+msgstr[0] "(1) comentario"
+msgstr[1] "(%1$s) comentarios"
+
+msgid "votes"
+msgstr "votos"
+
+msgid "Links"
+msgstr "Enlaces"
+
+msgid "views"
+msgstr "vistas"
+
+msgid "Leave a comment"
+msgstr "Escribir un comentario"
+
+msgid "Share"
+msgstr "Compartir"
+
+msgid "Add widgets"
+msgstr "Añadir widget"
+
+msgid "Tweet"
+msgstr "Twittear"
+
+msgid "Synopsis"
+msgstr "Sinopsis"
+
+msgid "IMDb Rating"
+msgstr "Calificación de IMDb"
+
+msgid "Watch trailer"
+msgstr "Ver trailer"
+
+msgid "Similar titles"
+msgstr "Títulos similares"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Manage"
+msgstr "Administrar"
+
+msgid "Added"
+msgstr "Añadido"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Quality"
+msgstr "Calidad"
+
+msgid "Server"
+msgstr "Servidor"
+
+msgid "+ Add new link"
+msgstr "+ Agregar nuevo enlace"
+
+msgid "Search..."
+msgstr "Buscar..."
+
+msgid "Your comment.."
+msgstr "Tu comentario.."
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Email"
+msgstr "Correo electrónico "
+
+msgid "Website"
+msgstr "Sitio Web"
+
+msgid "Post comment"
+msgstr "Publicar comentario"
+
+msgid "Info"
+msgstr "Información"
+
+msgid "Submit a link"
+msgstr "Enviar un enlace"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Send Link"
+msgstr "Enviar enlace"
+
+msgid "Add a display name"
+msgstr "Añadir un nombre para mostrar"
+
+msgid "Your email address will not be published"
+msgstr "Tu correo electrónico no será publicado"
+
+msgid "Your rating:"
+msgstr "Tu voto:"
+
+msgid "Trailer"
+msgstr "Trailer"
+
+msgid "Video trailer"
+msgstr "Video trailer"
+
+msgid "Full Cast & Crew"
+msgstr "Elenco completo"
+
+msgid "Sidebar Movies single"
+msgstr "Sidebar Peliculas single"
+
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Añadir widgets aquí.  Aparecerán en la barra lateral."
+
+msgid "Sidebar TVShows single"
+msgstr "Sidebar Series single"
+
+msgid "Sidebar Seasons single"
+msgstr "Sidebar Temporadas single"
+
+msgid "Sidebar Episodes single"
+msgstr "Sidebar episodios single"
+
+msgid "A widget to display Popular content"
+msgstr "Un widget para mostrar el contenido Popular"
+
+msgid "DooPlay - Sidebar Popular content"
+msgstr "DooPlay - Contenido popular"
+
+msgid "Title:"
+msgstr "Título:"
+
+msgid "Popular content by"
+msgstr "Contenido popular por"
+
+msgid "Visits"
+msgstr "Visitas"
+
+msgid "Likes"
+msgstr "Gustos"
+
+msgid "Users rating"
+msgstr "Calificación del usuario"
+
+msgid "IMDb rating"
+msgstr "IMDB Promedio"
+
+msgid "TMDb rating"
+msgstr "TMDb Promedio"
+
+msgid "Layout style"
+msgstr "Estilo de diseño"
+
+msgid "Style 1 - image Backdrop"
+msgstr "Estilo 1 - Imagen Brackdrop"
+
+msgid "Style 2 - image Poster"
+msgstr "Estilo 2 - Imagen poster"
+
+msgid "Style 3 - no image"
+msgstr "Estilo 3 - sin imagen"
+
+msgid "Items number"
+msgstr "Numero de articulos"
+
+msgid "Dooplay - Socialbox"
+msgstr "DooPlay - SocialBox"
+
+msgid "Displays links to social networks in a stylish manner"
+msgstr "Muestra enlaces a las redes sociales de manera elegante"
+
+msgid "Insert the URLs to your social networks"
+msgstr "Introduzca las direcciones URL a sus redes sociales"
+
+msgid "DooPlay - Sidebar content"
+msgstr "DooPlay - Contenido"
+
+msgid "A widget to show content in the sidebar"
+msgstr "Un widget para mostrar el contenido de la barra lateral"
+
+msgid "Descending"
+msgstr "Descendente"
+
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgid "Activate random order"
+msgstr "Activar orden aleatorio"
+
+msgid "DooPlay - Sidebar related content"
+msgstr "DooPlay - Contenido relacionado"
+
+msgid "A widget to show related content in the sidebar"
+msgstr "Un widget para mostrar el contenido relacionado."
+
+msgid "Content order"
+msgstr "Orden del contenido"
+
+msgid "See all movies"
+msgstr "Ver todo"
+
+msgid "TVShows"
+msgstr "Series"
+
+msgid "See all tvshows"
+msgstr "Ver todo"
+
+msgid "See all seasons"
+msgstr "Ver todo"
+
+msgid "See all episodes"
+msgstr "Ver todo"
+
+msgid "Generate data of themoviedb.org"
+msgstr "Generar datos de themoviedb.org"
+
+msgid "Please wait, loading data..."
+msgstr "Por favor espere, cargando datos..."
+
+msgid "Generate data of imdb.com"
+msgstr "Generar datos de imdb.com"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Loading.."
+msgstr "Cargando..."
+
+msgid "0.5 seconds"
+msgstr "0.5 segundos"
+
+msgid "1 second"
+msgstr "1 segundo"
+
+msgid "1.5 seconds"
+msgstr "1,5 segundos"
+
+msgid "10"
+msgstr "10"
+
+msgid "2 seconds"
+msgstr "2 segundos"
+
+msgid "2.5 seconds"
+msgstr "2.5 segundos"
+
+msgid "20"
+msgstr "20"
+
+msgid "3 seconds"
+msgstr "3 segundos"
+
+msgid "3.5 seconds"
+msgstr "segundos"
+
+msgid "4 seconds"
+msgstr "4 segundos"
+
+msgid "465"
+msgstr "465"
+
+msgid "<code>[module-episodes]</code> Usage shortcode."
+msgstr "Use shortcode <code>[module-episodes]</code>"
+
+msgid "<code>[module-movies]</code> Usage shortcode."
+msgstr "Use shortcode  <code>[module-movies]</code>"
+
+msgid "<code>[module-seasons]</code> Usage shortcode."
+msgstr "Use shortcode  <code>[module-seasons]</code>"
+
+msgid "<code>[module-slider]</code> Usage shortcode."
+msgstr "Use shortcode  <code>[module-slider]</code>"
+
+msgid "<code>[module-tvshows]</code> Usage shortcode."
+msgstr "Use shortcode  <code>[module-tvshows]</code>"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>cast</strong>/andrew-lincoln/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>elenco</strong>/andrew-lincoln/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>creator</strong>/frank-darabont/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>creador</strong>/frank-darabont/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>director</strong>/george-lucas/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>director</strong>/george-lucas/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>episodes</strong>/arrow-1x1/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>episodios</strong>/arrow-1x1/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>genre</strong>/action/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>genero</strong>/action/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>guest-star</strong>/emma-bell/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>estrella-invitada</strong>/emma-bell/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>links</strong>/49026/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>enlaces</strong>/49026/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>movies</strong>/titanic/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>peliculas</strong>/titanic/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>network</strong>/amc/"
+msgstr "<strong>Ejemplo</strong> yourwebsite.com/<strong>network</strong>/amc/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>protagonist</strong>/andrew-lincoln/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>protagonista</strong>/andrew-lincoln/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>release</strong>/2016/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>lanzamiento</strong>/2016/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>seasons</strong>/arrow-season-1/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>tenporadas</strong>/arrow-season-1/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>studio</strong>/amc-studios/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>estudio</strong>/amc-studios/"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>tvshows</strong>/arrow/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>series</strong>/arrow/"
+
+msgid "<strong>IMPORTANT:</strong> You can only use the following shortcodes, in the order of your preference"
+msgstr "<strong>IMPORTANTE:</strong> Recuerde que solo puede usar los siguientes shortcodes, puede ubicarlos en el orden de su preferencia"
+
+msgid "API Language"
+msgstr "Idioma para la API"
+
+msgid "API control"
+msgstr "Control de la API"
+
+msgid "APP ID"
+msgstr "APP ID"
+
+msgid "APP language"
+msgstr "APP idioma"
+
+msgid "Account user page"
+msgstr "Página \"Mi cuenta\""
+
+msgid "Activate Slider"
+msgstr "Activar slider"
+
+msgid "Activate post links"
+msgstr "Activar Publicación de enlaces"
+
+msgid "Add comma separated values"
+msgstr "Añadir elementos separados por comas sin espacios"
+
+msgid "Add modular Shortcodes and configure your home page<br> <a href=\"https://doothemes.com/forums/topic/12-homepage-modular/\" target=\"_blank\">more info</a>"
+msgstr "Añadir shortcodes y configure los módulos en la pagina de inicio<br> <a href=\"https://doothemes.com/forums/topic/12-homepage-modular/\" target=\"_blank\">mas información</a>"
+
+msgid "Add the API key in the text box"
+msgstr "Añadir la API Key en el cuadro de texto"
+
+msgid "Add title to show"
+msgstr "Agregar titulo para mostrar"
+
+msgid "Add user or user ID to manage comments"
+msgstr "Añadir nombre de usuario o ID de usuario para administrar los comentarios"
+
+msgid "Add your community shortname <a href=\"https://disqus.com/\" target=\"_blank\">Disqus</a>"
+msgstr "Añadir el shortname de tu comunidad en <a href=\"https://disqus.com/\" target=\"_blank\">Disqus</a>"
+
+msgid "Admin logo"
+msgstr "Logo admin"
+
+msgid "Admin user"
+msgstr "Admin user"
+
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+msgid "Akan"
+msgstr "Akan "
+
+msgid "Albanian"
+msgstr "Albanés"
+
+msgid "Alexa Verification ID"
+msgstr "ID de verificación en Alexa"
+
+msgid "Amharic"
+msgstr "Amárico"
+
+msgid "Arabic"
+msgstr "Arabic"
+
+msgid "Armenian"
+msgstr "Armenio"
+
+msgid "Assamese"
+msgstr "Assamese"
+
+msgid "Assign SMTP port"
+msgstr "Asignar puerto SMTP"
+
+msgid "Assign SMTP username"
+msgstr "Asignar usuario SMTP"
+
+msgid "Auto play Slider"
+msgstr "Autoplay Slider"
+
+msgid "Autoplay Slider"
+msgstr "Autoplay Slider"
+
+msgid "Autoplay Slider Movies"
+msgstr "Películas autoplay slider"
+
+msgid "Autoplay Slider TVShows"
+msgstr "Series autoplay slider"
+
+msgid "Autoplay slider control"
+msgstr "Control de autoplay slider"
+
+msgid "Aymara"
+msgstr "Aymara"
+
+msgid "Azerbaijani"
+msgstr "Azerbaijani"
+
+msgid "Basque"
+msgstr "Basque"
+
+msgid "Belarusian"
+msgstr "Belarusian"
+
+msgid "Bengali"
+msgstr "Bengali"
+
+msgid "Bing Webmaster Tools"
+msgstr "Bing Webmaster Tools"
+
+msgid "Bosnian"
+msgstr "Bosnian"
+
+msgid "Breton"
+msgstr "Breton"
+
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+msgid "Burmese"
+msgstr "Burmese"
+
+msgid "Catalan"
+msgstr "Catalan"
+
+msgid "Cebuano"
+msgstr "Cebuano"
+
+msgid "Check to display content in random order"
+msgstr "Marcar para mostrar contenido en orden aleatorio"
+
+msgid "Check to enable"
+msgstr "Marque para activar"
+
+msgid "Check to enable auto-play slider."
+msgstr "Marcar para activar autoplay slider"
+
+msgid "Check to enable module"
+msgstr "Marcar para activar modulo"
+
+msgid "Check to enable option."
+msgstr "Marcar para activar la opción."
+
+msgid "Check to enable the API"
+msgstr "Marcar para activar la API"
+
+msgid "Check to enable."
+msgstr "Marcar para activar."
+
+msgid "Cherokee"
+msgstr "Cherokee"
+
+msgid "Chewa"
+msgstr "Chewa"
+
+msgid "Chinese"
+msgstr "Chino"
+
+msgid "Choose the color for the comment block"
+msgstr "Selecciones la combinación de colores para el bloque de comentarios"
+
+msgid "Classical Greek"
+msgstr "Classical Greek"
+
+msgid "Code integrations"
+msgstr "Códigos de integración"
+
+msgid "Color Scheme"
+msgstr "Combinación de colores"
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Comments default"
+msgstr "Comentarios por defecto"
+
+msgid "Configuration"
+msgstr "Configuración"
+
+msgid "Configure an SMTP server to send e verified in WordPress"
+msgstr "Configure SMTP server para enviar \"correos electrónicos verificados\" en el sistema de WordPress"
+
+msgid "Configure pages"
+msgstr "Configurar páginas"
+
+msgid "Corsican"
+msgstr "Corsican"
+
+msgid "Countdown"
+msgstr "Contador regresivo"
+
+msgid "Croatian"
+msgstr "Croatian"
+
+msgid "Customize logos"
+msgstr "Personalizar logos"
+
+msgid "Czech"
+msgstr "Czech"
+
+msgid "Danish"
+msgstr "Danish"
+
+msgid "Dark Style"
+msgstr "Estilo oscuro"
+
+msgid "Dark color"
+msgstr "Colores oscuros"
+
+msgid "Default style"
+msgstr "Estilo por defecto"
+
+msgid "Define timeout for redirect links"
+msgstr "Definir tiempo de espera para redirigir enlaces"
+
+msgid "Disqus"
+msgstr "Disqus"
+
+msgid "Disqus comments"
+msgstr "Disqus comentarios"
+
+msgid "Dutch"
+msgstr "Dutch"
+
+msgid "Dutch (Belgie)"
+msgstr "Dutch (Belgie)"
+
+msgid "Enable API TMDb"
+msgstr "Habilitar API TMDb"
+
+msgid "Enable Random order"
+msgstr "Habilitar orden aleatorio"
+
+msgid "Enable SMTP"
+msgstr "Activar SMTP"
+
+msgid "Enable advanced method of sending emails, SMTP"
+msgstr "Activar SMTP como método avanzado para el envió de correos electrónicos en WordPress"
+
+msgid "English"
+msgstr "Ingles"
+
+msgid "English (India)"
+msgstr "Ingles (India)"
+
+msgid "English (Pirate)"
+msgstr "Ingles (Pirata)"
+
+msgid "English (UK)"
+msgstr "Ingles (UK)"
+
+msgid "English (US)"
+msgstr "Ingles (US)"
+
+msgid "English (Upside Down)"
+msgstr "Ingles (Upside Down)"
+
+msgid "Enter the code which you need to place <strong>before closing tag.</strong> (ex: Google Webmaster Tools verification, Bing Webmaster Center, BuySellAds Script, Alexa verification etc.)"
+msgstr "Introducir el código de los cuales se han de fijar <strong>antes de cerrar la etiqueta.</strong> (Por ejemplo: Google Webmaster Tools verificación, Bing Webmaster Center, BuySellAds Script, Alexa verificación, etc.)"
+
+msgid "Enter the codes which you need to place in your footer. (ex: Google Analytics, Clicky, STATCOUNTER, Woopra, Histats, etc.)"
+msgstr "Introducir los códigos que usted necesita para colocar en su pie de página. (Por ejemplo: Google Analytics, Clicky, StatCounter, Woopra, Histats, etc.)"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonian"
+msgstr "Estonian"
+
+msgid "Facebook comments"
+msgstr "Facebook comentarios"
+
+msgid "Faroese"
+msgstr "Faroese"
+
+msgid "Favicon"
+msgstr "Favicon"
+
+msgid "Filipino"
+msgstr "Filipino"
+
+msgid "Finnish"
+msgstr "Finnish"
+
+msgid "Footer code"
+msgstr "Código en footer"
+
+msgid "French"
+msgstr "Francés"
+
+msgid "French (Canada)"
+msgstr "Francés (Canada)"
+
+msgid "French (France)"
+msgstr "Francés (Francia)"
+
+msgid "Frisian"
+msgstr "Frisian"
+
+msgid "Fulah"
+msgstr "Fulah"
+
+msgid "Galician"
+msgstr "Galician"
+
+msgid "Ganda"
+msgstr "Ganda"
+
+msgid "General Settings"
+msgstr "General"
+
+msgid "Generate genres"
+msgstr "Generar géneros automáticamente"
+
+msgid "Genre"
+msgstr "Genero"
+
+msgid "Georgian"
+msgstr "Georgian"
+
+msgid "German"
+msgstr "German"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Google Search Console"
+msgstr "Google Search Console"
+
+msgid "Greek"
+msgstr "Greek"
+
+msgid "Guarani"
+msgstr "Guarani"
+
+msgid "Guest Star"
+msgstr "Estrella invitada"
+
+msgid "Gujarati"
+msgstr "Gujarati"
+
+msgid "Hausa"
+msgstr "Hausa"
+
+msgid "Header code"
+msgstr "Código en header"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Home modules"
+msgstr "Módulos homepage "
+
+msgid "Host"
+msgstr "Servidor"
+
+msgid "Hungarian"
+msgstr "Hungaro"
+
+msgid "Icelandic"
+msgstr "Icelandic"
+
+msgid "Igbo"
+msgstr "Igbo"
+
+msgid "Important to establish the connection to the server"
+msgstr "Importante para establecer la conexión con el servidor"
+
+msgid "Indonesian"
+msgstr "Indonesian"
+
+msgid "Insert tracking code to use this function"
+msgstr "Insertar código de seguimiento para usar esta función"
+
+msgid "Insert you Facebook app id here. If you don't have one for your webpage you can create it <a href=\"https://developers.facebook.com/apps/\" target=\"_blank\">here</a>"
+msgstr "Insertar la el ID de su APP en Facebook, si no dispone de ninguna ID, puede crear una nueva APP <a href=\"https://developers.facebook.com/apps/\" target=\"_blank\">aquí</a>"
+
+msgid "Irish"
+msgstr "Irish"
+
+msgid "It is important to correctly configure these fields, the API will allow us to generate content quickly."
+msgstr "Es muy importante asignar la configuración correcta en estos campos, la API le permitirá generar contenido rápidamente con datos precisos."
+
+msgid "Italian"
+msgstr "Italiano"
+
+msgid "Japanese"
+msgstr "Japonés"
+
+msgid "Japanese (Kansai)"
+msgstr "Japonés (Kansai)"
+
+msgid "Javanese"
+msgstr "Javanese"
+
+msgid "Kannada"
+msgstr "Kannada"
+
+msgid "Kazakh"
+msgstr "Kazakh"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+msgid "Klingon"
+msgstr "Klingon"
+
+msgid "Korean"
+msgstr "Korenao"
+
+msgid "Kurdish (Kurmanji)"
+msgstr "Kurdish (Kurmanji)"
+
+msgid "Kyrgyz"
+msgstr "Kyrgyz"
+
+msgid "Languages to add links"
+msgstr "Idiomas en \"Agregar enlaces\""
+
+msgid "Lao"
+msgstr "Lao"
+
+msgid "Latin"
+msgstr "Latin"
+
+msgid "Latvian"
+msgstr "Latvian"
+
+msgid "Leet Speak"
+msgstr "Leet Speak"
+
+msgid "Light color"
+msgstr "Colores claros"
+
+msgid "Limburgish"
+msgstr "Limburgish"
+
+msgid "Lingala"
+msgstr "Lingala"
+
+msgid "Lithuanian"
+msgstr "Lithuanian"
+
+msgid "Logo Image"
+msgstr "Imagen de logo"
+
+msgid "Macedonian"
+msgstr "Macedonian"
+
+msgid "Malagasy"
+msgstr "Malagasy"
+
+msgid "Malay"
+msgstr "Malay"
+
+msgid "Malayalam"
+msgstr "Malayalam"
+
+msgid "Maltese"
+msgstr "Maltese"
+
+msgid "Maori"
+msgstr "Maori"
+
+msgid "Marathi"
+msgstr "Marathi"
+
+msgid "Module Title"
+msgstr "Titulo del modulo"
+
+msgid "Module control"
+msgstr "Control del modulo"
+
+msgid "Module episodes"
+msgstr "Modulo episodios"
+
+msgid "Module movies"
+msgstr "Modulo películas"
+
+msgid "Module seasons"
+msgstr "Modulo temporadas"
+
+msgid "Module slider"
+msgstr "Modulo slider"
+
+msgid "Module tvshows"
+msgstr "Modulo series"
+
+msgid "Mongolian"
+msgstr "Mongol"
+
+msgid "Most view page"
+msgstr "Página \"Lo mas visto\""
+
+msgid "Ndebele"
+msgstr "Ndebele"
+
+msgid "Nepali"
+msgstr "Nepali"
+
+msgid "Network"
+msgstr "Network"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Northern Sami"
+msgstr "Northern Sami"
+
+msgid "Norwegian (bokmal)"
+msgstr "Norwegian (bokmal)"
+
+msgid "Norwegian (nynorsk)"
+msgstr "Norwegian (nynorsk)"
+
+msgid "Number of comments"
+msgstr "Numero de comentarios"
+
+msgid "Number of items to show"
+msgstr "Numero de artículos para mostrar"
+
+msgid "Optimizing URL Slugs"
+msgstr "Optimizar URL Slugs"
+
+msgid "Oriya"
+msgstr "Oriya"
+
+msgid "Pashto"
+msgstr "Pashto"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Persian"
+msgstr "Persian"
+
+msgid "Plain text"
+msgstr "Texto plano"
+
+msgid "Polish"
+msgstr "Polish"
+
+msgid "Port"
+msgstr "Puerto"
+
+msgid "Portuguese"
+msgstr "Portugués"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugués (Brasil)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugués (Portugal)"
+
+msgid "Post links"
+msgstr "Publicar enlaces"
+
+msgid "Protagonist"
+msgstr "Protagonista"
+
+msgid "Protocol"
+msgstr "Protocolo"
+
+msgid "Publish"
+msgstr "Publicado"
+
+msgid "Punjabi"
+msgstr "Punjabi"
+
+msgid "Quechua"
+msgstr "Quechua"
+
+msgid "Random order"
+msgstr "Orden aleatorio"
+
+msgid "Rating page"
+msgstr "Página \"Mejor calificados\""
+
+msgid "Release"
+msgstr "Lanzamiento"
+
+msgid "Resolutions quality to add links"
+msgstr "Resoluciones de calidad en \"Agregar enlaces\""
+
+msgid "Review pending"
+msgstr "Moderación pendiente"
+
+msgid "Romanian"
+msgstr "Rumano"
+
+msgid "Romansh"
+msgstr "Romansh"
+
+msgid "Russian"
+msgstr "Ruso"
+
+msgid "SMTP From email"
+msgstr "Correo electrónico de"
+
+msgid "SMTP From name"
+msgstr "A nombre de"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "Sanskrit"
+msgstr "Sanskrit"
+
+msgid "Sardinian"
+msgstr "Sardinian"
+
+msgid "Select language"
+msgstr "Seleccionar idioma"
+
+msgid "Select language for the app of facebook"
+msgstr "Seleccionar idioma para la Aplicación de facebook"
+
+msgid "Select number of comments to display "
+msgstr "Seleccionar numero de comentarios para mostrar antes de paginar."
+
+msgid "Select protocol Shipping"
+msgstr "Seleccionar protocolo de envió"
+
+msgid "Select publishing status for links."
+msgstr "Seleccionar estado de publicación"
+
+msgid "Select relevant page"
+msgstr "Seleccionar la página correspondiente"
+
+msgid "Select speed slider in secons"
+msgstr "Seleccionar velocidad de slider en segundos"
+
+msgid "Select the default commenting system"
+msgstr "Seleccionar sistema de comentarios por defecto"
+
+msgid "Serbian"
+msgstr "Serbian "
+
+msgid "Set SMTP server"
+msgstr "Configurar servidor SMTP"
+
+msgid "Set your API on <a href=\"https://www.themoviedb.org/account/\" target=\"_blank\">Themoviedb.org API</a>"
+msgstr "Configurar una API en <a href=\"https://www.themoviedb.org/account/\" target=\"_blank\">themoviedb.org</a>"
+
+msgid "Shona"
+msgstr "Shona"
+
+msgid "Shorname Disqus"
+msgstr "Shorname Disqus"
+
+msgid "Shortcode console"
+msgstr "Consola shortcode"
+
+msgid "Silesian"
+msgstr "Silesian"
+
+msgid "Simplified Chinese (China)"
+msgstr "Simplified Chinese (China)"
+
+msgid "Sinhala"
+msgstr "Sinhala"
+
+msgid "Site verification"
+msgstr "Verificación del sitio"
+
+msgid "Slovak"
+msgstr "Slovak"
+
+msgid "Slovenian"
+msgstr "Slovenian"
+
+msgid "Social integrations"
+msgstr "Integración social"
+
+msgid "Somali"
+msgstr "Somali"
+
+msgid "Sorani Kurdish"
+msgstr "Sorani Kurdish"
+
+msgid "Spanish"
+msgstr "Español"
+
+msgid "Spanish (Chile)"
+msgstr "Español (Chile)"
+
+msgid "Spanish (Colombia)"
+msgstr "Español (Colombia)"
+
+msgid "Spanish (Latin America)"
+msgstr "Español (Latino America)"
+
+msgid "Spanish (Mexico)"
+msgstr "Español (México)"
+
+msgid "Spanish (Spain)"
+msgstr "Español (España)"
+
+msgid "Spanish (Venezuela)"
+msgstr "Español (Venezuela)"
+
+msgid "Speed Slider"
+msgstr "Velocidad slider"
+
+msgid "Status post"
+msgstr "Estado de publicación"
+
+msgid "Swahili"
+msgstr "Swahili"
+
+msgid "Swedish"
+msgstr "Swedish"
+
+msgid "Syriac"
+msgstr "Syriac"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "TMDb API"
+msgstr "TMDb API"
+
+msgid "TMDb API key"
+msgstr "TMDb API key"
+
+msgid "Tajik"
+msgstr "Tajik"
+
+msgid "Tamazight"
+msgstr "Tamazight"
+
+msgid "Tamil"
+msgstr "Tamil"
+
+msgid "Tatar"
+msgstr "Tatar"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Thai"
+msgstr "Thai"
+
+msgid "Traditional Chinese (Hong Kong)"
+msgstr "Traditional Chinese (Hong Kong)"
+
+msgid "Traditional Chinese (Taiwan)"
+msgstr "Traditional Chinese (Taiwan)"
+
+msgid "Turkish"
+msgstr "Turkish"
+
+msgid "Turkmen"
+msgstr "Turkmen"
+
+msgid "UA-45182606-12"
+msgstr "UA-45182606-12"
+
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+msgid "Upload a 16 x 16 px image that will represent your website's favicon"
+msgstr "Cargar una imagen de 16*16 pixeles"
+
+msgid "Upload poster image"
+msgstr "Cargar imagen del poster"
+
+msgid "Upload your logo for wp-admin login, using the Upload Button or insert image URL"
+msgstr "Cargar su logo para wp-admin inicio de sesión, utilizando el botón Subir o insertar URL de la imagen"
+
+msgid "Upload your logo using the Upload Button or insert image URL"
+msgstr "Cargar su logo usando el botón Subir o insertar URL de la imagen"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Uzbek"
+msgstr "Uzbek"
+
+msgid "Verification settings <a href=\"https://www.alexa.com/siteowners/claim/\" target=\"_blank\">here</a>"
+msgstr "Ajustes de verificación <a href=\"https://www.alexa.com/siteowners/claim/\" target=\"_blank\">aquí</a>"
+
+msgid "Verification settings <a href=\"https://www.bing.com/toolbox/webmaster/\" target=\"_blank\">here</a>"
+msgstr "Ajustes de verificación <a href=\"https://www.bing.com/toolbox/webmaster/\" target=\"_blank\">aquí</a>"
+
+msgid "Verification settings <a href=\"https://www.google.com/webmasters/verification/\" target=\"_blank\">here</a>"
+msgstr "Ajustes de verificación <a href=\"https://www.google.com/webmasters/verification/\" target=\"_blank\">aquí</a>"
+
+msgid "Verification settings <a href=\"https://yandex.com/support/webmaster/service/rights.xml#how-to\" target=\"_blank\">here</a>"
+msgstr "Ajustes de verificación <a href=\"https://yandex.com/support/webmaster/service/rights.xml#how-to\" target=\"_blank\">aquí</a>"
+
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+msgid "WP SMTP mail"
+msgstr "SMTP WordPress Mail"
+
+msgid "We recommend setting these fields to moderate the comments facebook, <a href=\"https://developers.facebook.com/docs/plugins/comments\" target=\"_blank\">more info</a> "
+msgstr "Recomendamos la configuración de estos campos para moderar los comentarios de Facebook, <a href=\"https://developers.facebook.com/docs/plugins/comments\" target=\"_blank\">mas información</a> "
+
+msgid "Welsh"
+msgstr "Welsh"
+
+msgid "Wolof"
+msgstr "Wolof"
+
+msgid "WordPress"
+msgstr "WordPress"
+
+msgid "Xhosa"
+msgstr "Xhosa"
+
+msgid "Yandex Webmaster Tools"
+msgstr "Yandex Webmaster Tools"
+
+msgid "Yiddish"
+msgstr "Yiddish"
+
+msgid "Yoruba"
+msgstr "Yoruba"
+
+msgid "Zazaki"
+msgstr "Zazaki"
+
+msgid "Zulu"
+msgstr "Zulu"
+
+msgid "[module]"
+msgstr "[module]"
+
+msgid "cast"
+msgstr "elenco"
+
+msgid "creator"
+msgstr "creador"
+
+msgid "director"
+msgstr "director"
+
+msgid "episodes"
+msgstr "episodios"
+
+msgid "from_mail@yourwebsite.com"
+msgstr "from_mail@yourwebsite.com"
+
+msgid "genre"
+msgstr "genero"
+
+msgid "guest-star"
+msgstr "estrella-invitada"
+
+msgid "links"
+msgstr "enlaces"
+
+msgid "movies"
+msgstr "peliculas"
+
+msgid "network"
+msgstr "network"
+
+msgid "protagonist"
+msgstr "protagonista"
+
+msgid "release"
+msgstr "lanzamiento"
+
+msgid "seasons"
+msgstr "temporadas"
+
+msgid "smtp.gmail.com"
+msgstr "smtp.gmail.com"
+
+msgid "studio"
+msgstr "estudio"
+
+msgid "tvshows"
+msgstr "series"
+
+msgid "username_smtp@yourwebsite.com"
+msgstr "username_smtp@yourwebsite.com"
+
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+msgid "Documentation"
+msgstr "Documentación"
+
+msgid "Invalid license, it is possible that some of the options may not work correctly"
+msgstr "licencia no válida, es posible que algunas de las opciones no funcionen correctamente, regularice el estado de su licencia"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+msgid "Support forum"
+msgstr "Foro de soporte"
+
+msgid "quality"
+msgstr "calidad"
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>quality</strong>/1080p/"
+msgstr "<strong>Ejemplo:</strong> yourwebsite.com/<strong>calidad</strong>/1080p/"
+
+msgid "Select the default color scheme"
+msgstr "Seleccionar combinación de colores por defecto"
+
+msgid "Dark style"
+msgstr "Estilo oscuro"
+
+msgid "White style"
+msgstr "Estilo blanco"
+
+msgid "jQuery version"
+msgstr "Versión de jQuery"
+
+msgid "Select jQuery version"
+msgstr "Seleccione la versión de jQuery"
+
+msgid "My website"
+msgstr "Mi sitio web"
+
+msgid "WordPress Controls"
+msgstr "Controles de WordPress"
+
+msgid "Emoji disable"
+msgstr "Desactivar los \"emoji\""
+
+msgid "User toolbar disable"
+msgstr "Desactivar barra de herramientas de usuario"
+
+msgid "Check to disable"
+msgstr "Marcar para desactivar."
+
+msgid "Page"
+msgstr "Página"
+
+msgid "of"
+msgstr "de"
+
+msgid "season x episode"
+msgstr "temporada x episodios"
+
+msgid "season"
+msgstr "temporada"
+
+msgid "placeholder"
+msgstr "placeholder"
+
+msgid "no link's"
+msgstr "no hay enlaces disponibles"
+
+msgid "no data"
+msgstr "no hay datos"
+
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario esta esperando ser moderado por un administrador"
+
+msgid "You do not like anything yet."
+msgstr "No hay nada que te agrade aun."
+
+msgid "Watch online"
+msgstr "Ver en línea"
+
+msgid "Video Player"
+msgstr "Reproductor de video"
+
+msgid "User vote deleted"
+msgstr "Voto de usuario"
+
+msgid "User registration"
+msgstr "Registro de usuarios"
+
+msgid "Unlike"
+msgstr "Unlike"
+
+msgid "URL source"
+msgstr "URL de la fuente"
+
+msgid "URL Link"
+msgstr "URL"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Thanks for your vote!"
+msgstr "Gracias por votar!"
+
+msgid "Sending link.."
+msgstr "Enviando enlace..."
+
+msgid "Select quality"
+msgstr "Resolución de calidad"
+
+msgid "Release Year"
+msgstr "Año de lanzamiento"
+
+msgid "Register"
+msgstr "Registrarse"
+
+msgid "Preferences"
+msgstr "Preferencias"
+
+msgid "Post per page"
+msgstr "Entradas por pagina"
+
+msgid "Only Key"
+msgstr "Solo KEY"
+
+msgid "Not permitted"
+msgstr "No Permitido"
+
+msgid "No content on your list."
+msgstr "No hay contenido en tu lista."
+
+msgid "No content"
+msgstr "Sin contenido"
+
+msgid "Newer Comments &rarr;"
+msgstr "Nuevos comentarios &rarr;"
+
+msgid "My list"
+msgstr "Mi lista"
+
+msgid "Most Viewd"
+msgstr "Mas visto"
+
+msgid "Min."
+msgstr "Min."
+
+msgid "Log in to vote"
+msgstr "Iniciar sesión para votar"
+
+msgid "Link sent, updating page ..."
+msgstr "Enlace enviado, actualizando pagina..."
+
+msgid "Like"
+msgstr "Me gusta"
+
+msgid "Last name"
+msgstr "Apellido"
+
+msgid "Item title"
+msgstr "Titulo de articulo"
+
+msgid "In my list"
+msgstr "En mi lista"
+
+msgid "Iframe HTML"
+msgstr "Iframe HTML"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "First name"
+msgstr "Nombre"
+
+msgid "Favorites"
+msgstr "Favoritos"
+
+msgid "Edit profile"
+msgstr "Editar perfil"
+
+msgid "Download"
+msgstr "Descarga"
+
+msgid "Copy the digits from the image into this text box"
+msgstr "Copiar los dígitos de la imagen en el cuadro de texto"
+
+msgid "Content type"
+msgstr "Tipo de contenido"
+
+msgid "Content published"
+msgstr "Contenido publicado"
+
+msgid "Config home page"
+msgstr "Configurar pagina de inicio"
+
+msgid "Complete register!"
+msgstr "Registro completo!"
+
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+msgid "Coming soon"
+msgstr "Próximamente"
+
+msgid "Add new player"
+msgstr "Añadir nuevo player"
+
+msgid "Add content"
+msgstr "Agregar contenido"
+
+msgid "<strong>Disqus:</strong> add shortname your comunity, <a href=\"https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-\" target=\"_blank\">more info</a>"
+msgstr "<strong>Disqus:</strong> añadir el \"shortname\" de tu comunidad, <a href=\"https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-\" target=\"_blank\">more info</a>"
+
+msgid "0"
+msgstr "0"
+
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%1$s"
+msgstr "%1$s"
+
+msgid "Security Check"
+msgstr "Control de seguridad"
+
+msgid "My account"
+msgstr "Mi cuenta"
+
+msgid "Select publication status the content generated by the API."
+msgstr "Seleccione el estado por defecto del contenido generado por la API fuera del editor de contenido de WordPress."
+
+msgid "Movies post status"
+msgstr "Películas"
+
+msgid "TV Shows post status"
+msgstr "Series"
+
+msgid "Seasons post status"
+msgstr "Temporadas"
+
+msgid "Episodes post status"
+msgstr "Episodios"
+
+msgid "Draft"
+msgstr "Borrador"
+
+msgid "Pending"
+msgstr "Pendiente"
+
+msgid "Private"
+msgstr "Privado"
+
+msgid "Trash"
+msgstr "Papelera"
+
+msgid "Control generated content"
+msgstr "Control de contenido generado"
+
+msgid "Images and trailer"
+msgstr "Imágenes y trailer"
+
+msgid "Add url image"
+msgstr "Agregar url imagen"
+
+msgid "Backdrops"
+msgstr "Telones"
+
+msgid "Place each image url below another"
+msgstr "Coloque cada URL de la imagen debajo de otro"
+
+msgid "Add id Youtube video"
+msgstr "Añadir ID del video de youtube"
+
+msgid "Generate data from <strong>imdb.com</strong>"
+msgstr "Generar contenido desde <strong>imdb.com</strong>"
+
+msgid "E.g. http://www.imdb.com/title/<strong>tt2911666</strong>/"
+msgstr "Ejemplo. http://www.imdb.com/title/<strong>tt2911666</strong>/"
+
+msgid "Update data"
+msgstr "Actualizar datos"
+
+msgid "Average / votes"
+msgstr "Promedio / votos"
+
+msgid "Themoviedb.org data"
+msgstr "Datos de themoviedb.org"
+
+msgid "IMDb.com data"
+msgstr "Datos de IMDb.com"
+
+msgid "Generate data"
+msgstr "Generar datos"
+
+msgid "Generate data from <strong>themoviedb.org</strong>"
+msgstr "Generar datos desde <strong>themoviedb.org</strong>"
+
+msgid "More data"
+msgstr "Mas datos"
+
+msgid "Content total posted"
+msgstr "Total contenido publicado"
+
+msgid "E.g. https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead"
+msgstr "Ejemplo: https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead"
+
+msgid "Serie name"
+msgstr "Nombre de la serie"
+
+msgid "Episode title"
+msgstr "Titulo del episodio"
+
+msgid "See all"
+msgstr "Ver todo"
+
+msgid "Import demo data"
+msgstr "Importar demo"
+
+msgid "Demo already imported"
+msgstr "Datos de demostración ya importados."
+
+msgid "Necessary requirements"
+msgstr "Requisitos necesarios"
+
+msgid "Install of WordPress clean."
+msgstr "Instalación limpia de WordPress."
+
+msgid "Valid license."
+msgstr "Licencia válida."
+
+msgid "Do not create any menu to complete the import."
+msgstr "No crear ningún menú hasta completar la importación de datos."
+
+msgid "Remove all added content."
+msgstr "Elimine todo contenido que haya añadido."
+
+msgid "Please click import only once and wait, it can take a couple of minutes."
+msgstr "Por favor, haga clic en Importar una sola vez y espere, puede tardar un par de minutos."
+
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr "Antes de comenzar, asegúrese de que todos los plugins necesarios están activados."
+
+msgid "Import Again"
+msgstr "Importar demo nuevamente"
+
+msgid "Import Demo Data"
+msgstr "Importar datos de la demostración"
+
+msgid "This process can take several minutes to complete."
+msgstr "Este proceso puede tomar algunos minutos, solo espere hasta que se complete, recuerde hacer clic en importar solo una vez."
+
+msgid "The XML file containing the dummy content is not available or could not be read."
+msgstr "El archivo XML que contiene el contenido de prueba no está disponible o no se puede leer."
+
+msgid "All done."
+msgstr "Todo listo."
+
+msgid "Have fun!"
+msgstr "¡Que te diviertas!"
+
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Recuerde actualizar las contraseñas y los roles de los usuarios importados."
+
+msgid "Sorry, there has been an error."
+msgstr "Lo sentimos, ha ocurrido un error."
+
+msgid "Choose an option"
+msgstr "Elija una opción"
+
+msgid "Basic info"
+msgstr "Información básica"
+
+msgid "SEO Features"
+msgstr "Características SEO"
+
+msgid "Basic SEO"
+msgstr "SEO basico"
+
+msgid "Uncheck this to disable SEO features in the theme, highly recommended if you use any other SEO plugin, that way the theme's SEO features won't conflict with the plugin."
+msgstr "Desactive esta opción para desactivar las características de SEO en el tema, muy recomendable si se utiliza cualquier otro plugin de SEO, de esa manera las características de SEO del tema no entrarán en conflicto con el plugin."
+
+msgid "Site info"
+msgstr "Información del sitio"
+
+msgid "Alternative name"
+msgstr "Nombre alternativo"
+
+msgid "Main keywords"
+msgstr "Keywords principales"
+
+msgid "add main keywords for site info"
+msgstr "añadir principales keywords de tu sitio web"
+
+msgid "Meta description"
+msgstr "Meta descripción"
+
+msgid "Your company"
+msgstr "Tu empresa"
+
+msgid "Company name"
+msgstr "Nombre de la empresa"
+
+msgid "Company logo"
+msgstr "Logo de la empresa"
+
+msgid "Trending"
+msgstr "Tendencias"
+
+msgid "Ratings"
+msgstr "Calificaciones"
+
+msgid "My favorites"
+msgstr "Mis favoritos"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Allow user register"
+msgstr "Permite el registro de usuarios"
+
+msgid "Published date"
+msgstr "Fecha de publicación"
+
+msgid "<strong>\"Published date\"</strong> this option will only effect from the data importer in front-end."
+msgstr "<strong>\"Fecha de publicación\"</strong> esta opción sólo tendrá efecto desde el importador de datos en el front-end."
+
+msgid "Actual date (default)"
+msgstr "Fecha actual (por defecto)"
+
+msgid "Release date"
+msgstr "Fecha de lanzamiento"
+
+msgid "select type of date of publication"
+msgstr "Seleccione el tipo de fecha de publicación"
+
+msgid "previous episode"
+msgstr "episodio anterior"
+
+msgid "episodes list"
+msgstr "lista de episodios"
+
+msgid "next episode"
+msgstr "siguiente episodio"
+
+msgid "Browse"
+msgstr "Navegar"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Edit account"
+msgstr "Editar cuenta"
+
+msgid "My Movies"
+msgstr "Mis peliculas"
+
+msgid "My TV Shows"
+msgstr "Mis series"
+
+msgid "Reset"
+msgstr "Reiniciar"
+
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+msgid "Sign up"
+msgstr "Registrarse"
+
+msgid "Stay logged in"
+msgstr "Permanecer conectado"
+
+msgid "Security check"
+msgstr "Control de seguridad"
+
+msgid "please do not skip this step, it is important."
+msgstr "por favor no omitir este paso, es importante."
+
+msgid "Do you already have an account?"
+msgstr "¿Ya tienes una cuenta?"
+
+msgid "Login here"
+msgstr "Iniciar sesión aquí"
+
+msgid "Don't you have an account yet?"
+msgstr "¿No tienes una cuenta?"
+
+msgid "Sign up here"
+msgstr "Registrarse aquí"
+
+msgid "I forgot my password"
+msgstr "Olvidé mi contraseña"
+
+msgid "E-mail address"
+msgstr "Correo electrónico"
+
+msgid "FAILED: Try again!"
+msgstr "ERROR: Inténtelo de nuevo!"
+
+msgid "Generating data.."
+msgstr "Generando datos.."
+
+msgid "Sign up, it's free.."
+msgstr "Registrese, es gratis.."
+
+msgid "General account information"
+msgstr "Información General"
+
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr "Las contraseñas no coinciden. Su contraseña no se a podido actualizar."
+
+msgid "The Email you entered is not valid.  please try again."
+msgstr "El correo electrónico que has introducido no es válido. Inténtalo de nuevo."
+
+msgid "This email is already used by another user.  try a different one."
+msgstr "Este e-mail ya está siendo utilizado por otro usuario. pruebe con otro."
+
+msgid "You must be logged in to edit your profile."
+msgstr "Debe iniciar sesión para editar su perfil."
+
+msgid "Your profile has been updated."
+msgstr "Sus ajustes de perfil se ha actualizado correctamente."
+
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+msgid "Display name publicly as"
+msgstr "Mostrar nombre públicamente como"
+
+msgid "Password *"
+msgstr "Contraseña*"
+
+msgid "Repeat Password *"
+msgstr "Repetir contraseña*"
+
+msgid "Update account"
+msgstr "Actualizar datos"
+
+msgid "A username is required for registration."
+msgstr "Se requiere un nombre de usuario para el registro."
+
+msgid "Sorry, that username already exists!"
+msgstr "Lo sentimos, ese nombre de usuario ya existe!"
+
+msgid "You must enter a valid email address."
+msgstr "Debes ingresar una dirección de correo electrónico válida."
+
+msgid "Sorry, that email address is already used!"
+msgstr "Lo siento, esta dirección de email ya está en uso!"
+
+msgid "Thank you for registering"
+msgstr "Gracias por registrarte!"
+
+msgid "Welcome to {sitename}"
+msgstr "Bienvenido a {sitename}"
+
+msgid "<strong>NOTE:</strong> You can use these tags to personalize your welcome message in sign up."
+msgstr "<strong>NOTA:</strong> Puede utilizar estas etiquetas para personalizar su mensaje de bienvenida en el registro."
+
+msgid "Welcome message"
+msgstr "Mensaje de bienvenida"
+
+msgid "Use plain text only."
+msgstr "Módulo de texto sin formato"
+
+msgid "Hello {first_name}, welcome to {sitename}."
+msgstr "Hola  {first_name}, bienvenido a {sitename}."
+
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+msgid "No content available on your list."
+msgstr "No hay contenido en tu lista."
+
+msgid "Who can post links"
+msgstr "Pueden publicar enlaces"
+
+msgid "Anyone"
+msgstr "Cualquiera"
+
+msgid "Only admin"
+msgstr "Solo el administrador"
+
+msgid "Registration required"
+msgstr "Registro requerido"
+
+msgid "Select who can post links on your website."
+msgstr "Seleccione quién puede publicar enlaces en su sitio Web."
+
+msgid "Seconds"
+msgstr "Segundos"
+
+msgid "Please wait, redirecting page.."
+msgstr "Por favor espere, redirigiendo la página..."
+
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+msgid "Subject"
+msgstr "Asunto"
+
+msgid "How can we help?"
+msgstr "¿En qué podemos ayudarte?"
+
+msgid "Your message"
+msgstr "Tu mensaje"
+
+msgid "The more descriptive you can be the better we can help."
+msgstr "Sea lo más descriptivo que pueda ser para poder ayudarlo mejor."
+
+msgid "Link Reference (optional)"
+msgstr "Link de referencia (opcional)"
+
+msgid "Verification code"
+msgstr "Código de verificación"
+
+msgid "If you can't read the text, click on the image to redraw."
+msgstr "Si no puede leer el texto, haga clic en la imagen a dibujar."
+
+msgid "Send message"
+msgstr "Enviar mensaje"
+
+msgid "Ad spot / home module"
+msgstr "Bloque / home module"
+
+msgid "Ads Home module"
+msgstr "Modulo de anuncio \"Home Page\""
+
+msgid "Use HTML code"
+msgstr "Usar código HTML"
+
+msgid "Ad spot / redirecting links"
+msgstr "Bloque / re-direccionar enlaces"
+
+msgid "Ad 300x250 pixels"
+msgstr "Anuncio de 300x250 pixeles"
+
+msgid "Ad 468x60 pixels"
+msgstr "Anuncio de 468x60 pixeles"
+
+msgid "Ad spot / single"
+msgstr "Bloque / single"
+
+msgid "Ad single"
+msgstr "Anuncio \"Single\""
+
+msgid "Display ad"
+msgstr "Mostrar anuncio en"
+
+msgid "Check to enable ads"
+msgstr "Marcar para activar modulo"
+
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+msgid "Have something to notify our support team, please do not hesitate to use this form."
+msgstr "Si tiene algo que notificarnos, no dude en ponerse en contacto con nuestro equipo de soporte."
+
+msgid "Message sent, at any time one of our operators will contact you."
+msgstr "Mensaje enviado con éxito, en cualquier momento uno de nuestros operadores se pondrán en contacto contigo."
+
+msgid "Additional settings"
+msgstr "Ajustes adicionales"
+
+msgid "Enable or disable"
+msgstr "Habilite o deshabilite"
+
+msgid "Auto-play video trailers"
+msgstr "Auto-play video trailers"
+
+msgid "Check whether to activate or deactivate"
+msgstr "Compruebe si se debe activar o desactivar"
+
+msgid "Edit page content."
+msgstr "Editar contenido de esta pagina."
+
+msgid "Results"
+msgstr "Resultados"
+
+msgid "Nothing Found"
+msgstr "No hemos encontrado nada"
+
+msgid "Enable similar titles"
+msgstr "Habilitar títulos similares"
+
+msgid "Search for"
+msgstr "Buscar"
+
+msgid "Not Found"
+msgstr "No encontrado"
+
+msgid "Width layout"
+msgstr "Ancho de diseño"
+
+msgid "1100px it is the ideal measured in pixels"
+msgstr "1100px es la medida ideal para DooPlay"
+
+msgid "Blog pages show at most"
+msgstr "Numero máximo de entradas a mostrar por pagina"
+
+msgid "Post per page in blog"
+msgstr "Entradas por pagina en Blog"
+
+msgid "TOP IMDb items"
+msgstr "Artículos TOP IMDb"
+
+msgid "Select the number of items to the page TOP IMDb"
+msgstr "Seleccione el número de elementos a la página TOP IMDb"
+
+msgid "TOP IMDb"
+msgstr "Raking IMDb"
+
+msgid "Module blog"
+msgstr "Modulo Blog"
+
+msgid "Number of words"
+msgstr "Número de palabras"
+
+msgid "Number of words for describing the entry"
+msgstr "Número de palabras para la descripción de la entrada"
+
+msgid "<code>[module-list-entries-blog]</code> Usage shortcode."
+msgstr "Use shortcode <code>[module-list-entries-blog]</code>"
+
+msgid "Module TOP IMDb"
+msgstr "Modulo TOP IMDb"
+
+msgid "Select Layout"
+msgstr "Seleccionar diseño"
+
+msgid "Movies and TV Shows"
+msgstr "Películas y Series"
+
+msgid "Only Movies"
+msgstr "Solo peliculas"
+
+msgid "Only TV Shows"
+msgstr "Solo series"
+
+msgid "Select the type of module to display"
+msgstr "Seleccione el tipo de módulo para mostrar"
+
+msgid "<code>[module-top-imdb]</code> Usage shortcode."
+msgstr "Use shortcode <code>[module-top-imdb]</code>"
+
+msgid "Results found:"
+msgstr "Resultados encontrados:"
+
+msgid "No results to show with"
+msgstr "No hay resultados para"
+
+msgid "Suggestions"
+msgstr "Sugerencias"
+
+msgid "Make sure all words are spelled correctly."
+msgstr "Asegúrese de que todas las palabras estén escritas correctamente."
+
+msgid "Try different keywords."
+msgstr "Intenta utilizar otras palabras."
+
+msgid "Try more general keywords."
+msgstr "Prueba palabras clave más generales."
+
+msgid "Movie"
+msgstr "Película"
+
+msgid "TV"
+msgstr "Serie"
+
+msgid "Post"
+msgstr "Post"
+
+msgid "requires a valid license to activate all functions."
+msgstr "requiere una licencia valida para activar todas las funciones"
+
+msgid "Activate license"
+msgstr "Activar licencia"
+
+msgid "Customer name"
+msgstr "Nombre del cliente"
+
+msgid "Customer email"
+msgstr "Correo electrónico"
+
+msgid "Payment id"
+msgstr "ID de pago"
+
+msgid "License limit"
+msgstr "Limite de activaciones"
+
+msgid "Site count"
+msgstr "Conteo de activaciones"
+
+msgid "Activations left"
+msgstr "Activaciones disponibles"
+
+msgid "Expires"
+msgstr "Fecha de renovación"
+
+msgid "My account in Doothemes"
+msgstr "Mi cuenta en Doothemes.com"
+
+msgid "Deactivate license"
+msgstr "Desactivar Licencia"
+
+msgid "Report bug"
+msgstr "Reportar error"
+
+msgid "Video"
+msgstr "Vídeo"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Subtitle"
+msgstr "Subtitulo"
+
+msgid "Not Synced"
+msgstr "Sin sincronizar"
+
+msgid "Wrong subtitle"
+msgstr "Error de subtitulos"
+
+msgid "Missing subtitle"
+msgstr "Subtítulo faltante"
+
+msgid "Others"
+msgstr "Otros"
+
+msgid "There's no Audio"
+msgstr "No hay audio"
+
+msgid "Broken"
+msgstr "Enlace roto"
+
+msgid "Wrong video"
+msgstr "Vídeo equivocado"
+
+msgid "Please help us to describe the issue so we can fix it asap."
+msgstr "Formulario de reportes de error."
+
+msgid "Send report"
+msgstr "Enviar reporte"
+
+msgid "Text message"
+msgstr "Mensaje de texto"
+
+msgid "Notification sent"
+msgstr "Notificación enviada, lo solucionaremos tan pronto sea posible."
+
+msgid "Incorrect security code"
+msgstr "Condigo de seguridad incorrecto."
+
+msgid "Edit post"
+msgstr "Editar post"
+
+msgid "Permalink"
+msgstr "Enlace permanente"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Views"
+msgstr "Vistas"
+
+msgid "Movie layout player"
+msgstr "Diseño del Player"
+
+msgid "Big player"
+msgstr "Player grande"
+
+msgid "Small Player"
+msgstr "Player mediano"
+
+msgid "Select layout player movie"
+msgstr "Seleccionar diseño de reproductor de películas"
+
+msgid "click on ad to close"
+msgstr "haga clic en el anuncio para cerrar"
+
+msgid "Ad"
+msgstr "Anuncio"
+
+msgid "Player control"
+msgstr "Control Player"
+
+msgid "Block Ad in player"
+msgstr "Bloque de anuncio en el Player"
+
+msgid "Turn off the lights"
+msgstr "Apagar las luces"
+
+msgid "Report error"
+msgstr "Reportar error"
+
+msgid "Show quality"
+msgstr "Mostrar calidad"
+
+msgid "Show views"
+msgstr "Mostrar vistas"
+
+msgid "Check options you want to display."
+msgstr "Marque las opciones que desee mostrar."
+
+msgid "Ad control"
+msgstr "Control de anuncio"
+
+msgid "Ad in player"
+msgstr "Bloque de anuncio en el Player"
+
+msgid "Hide ad after clicking"
+msgstr "Ocultar anuncios después de hacer clic"
+
+msgid "Hide ad"
+msgstr "Ocultar anuncio"
+
+msgid "Time in seconds for show ad"
+msgstr "Tiempo en segundos para mostrar anuncio"
+
+msgid "Ad of 300*250 px"
+msgstr "Anuncio de 300*250 pixeles"
+
+msgid "Tag Archives: %s"
+msgstr "Archivos de etiqueta: %s"
+
+msgid "Category Archives: %s"
+msgstr "Archivos de categoría: %s"
+
+msgid "Inappropriate"
+msgstr "Inapropiado"
+
+msgid "Very uncomfortable"
+msgstr "Muy incomodo"
+
+msgid "Reports"
+msgstr "Reportes"
+
+msgid "Delete notice"
+msgstr "Eliminar aviso"
+
+msgid "Really you want to delete?"
+msgstr "¿Realmente desea eliminar las notificaciones de error?"
+
+msgid "Activate Rows file size"
+msgstr "Activar fila de tamaño de archivo"
+
+msgid "Rows file size"
+msgstr "Fila tamaño de archivo"
+
+msgid "Check to enable rows file size"
+msgstr "Marque para activar la fila \"tamaño de archivo\""
+
+msgid "File size"
+msgstr "Tamaño de archivo"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "They sure have added content manually?"
+msgstr "Seguro que ya haz agregado contenido para mostrar?"
+
+msgid "Seasons control"
+msgstr "Control de temporadas"
+
+msgid "I generated episodes or add manually"
+msgstr "He generado episodios o los añadiré manualmente."
+
+msgid "I have generated seasons or I will manually"
+msgstr "He generado temporadas o las añadiré manualmente."
+
+msgid "Episodes control"
+msgstr "Control de episodios"
+
+msgid "DooPlay: Permalink Settings"
+msgstr "DooPlay: Ajustes de los enlaces permanentes"
+
+msgid "Flag Language"
+msgstr "Bandera de idiomas"
+
+msgid "URL source or Shortcode"
+msgstr "URL de la fuente"
+
+msgid "Add new row"
+msgstr "Añadir nueva fila"
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Disable"
+msgstr "Inhabilitar"
+
+msgid "Minify HTML"
+msgstr "Minificar HTML"
+
+msgid "Code comments"
+msgstr "Comentarios de código"
+
+msgid "Relative domain"
+msgstr "Dominio relativo"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "Remove HTML, JavaScript and CSS comments, this option is typically safe to set to (Yes)"
+msgstr "Eliminar comentarios HTML, JavaScript y CSS, esta opción suele ser segura."
+
+msgid "Remove XHTML closing tags from HTML5 void elements"
+msgstr "Quitar etiquetas de cierre XHTML de elementos vacíos en HTML5"
+
+msgid "Remove schemes (HTTP: and HTTPS:) from all URLs"
+msgstr "Eliminar esquemas (HTTP: y HTTPS :) de todas las URL"
+
+msgid "Remove relative domain from internal URLs"
+msgstr "Quitar el dominio relativo de las URL internas"
+
+msgid "Check duplicate content"
+msgstr "Verificar contenido duplicado"
+
+msgid "This content already exists, we recommend not to publish."
+msgstr "Este contenido se ha publicado antes, se recomienda no volver a publicar."
+
+msgid "Excellent! this content is unique."
+msgstr "¡Excelente! este contenido es único."
+
+msgid "Data were completed, check please"
+msgstr "Los datos fueron completados, por favor verifique todos los campos."
+
+msgid "The data have been updated, check please"
+msgstr "Los datos han sido actualizados, verifique todos los campos."
+
+msgid "Thank you! link successfully sent, soon to be reviewed"
+msgstr "!Gracias! enlace enviado correctamente, en breve será revisado."
+
+msgid "Positions for sidebars"
+msgstr "Posiciones de las barras laterales"
+
+msgid "Homepage sidebar"
+msgstr "Home sidebar"
+
+msgid "Single sidebar"
+msgstr "Single sidebar"
+
+msgid "Autoplay Carousel"
+msgstr "Autoplay Carousel"
+
+msgid "Speed Carousel"
+msgstr "Velocidad Carousel"
+
+msgid "DooPlay - [widgetgenre] Genres"
+msgstr "DooPlay - [widgetgenre] Generos"
+
+msgid "[widgetgenre] Genres"
+msgstr "[widgetgenre] Generos"
+
+msgid "Only widgets for the genres in home modules."
+msgstr "Solo Widgets destinados a los módulos del home"
+
+msgid "Sort content by genres"
+msgstr "Ordenar contenido por generos"
+
+msgid "second"
+msgstr "segundo"
+
+msgid "seconds"
+msgstr "segundos"
+
+msgid "Error! invalid code"
+msgstr "¡ERROR! código de verificación invalido."
+
+msgid "Thank you! Your report was submitted.."
+msgstr "¡Gracias! Su reporte ha sido enviado con éxito."
+
+msgid "Please wait, sending data.."
+msgstr "Por favor espere, enviando datos.."
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "Need Help?"
+msgstr "¿Necesita ayuda?"
+
+msgid "Send us Feedback"
+msgstr "Enviar sugerencias"
+
+msgid "Get data from Themoviedb.org"
+msgstr "Obtener datos de Themoviedb.org"
+
+msgid "Get content"
+msgstr "Obtener contenido"
+
+msgid "ID Movie"
+msgstr "ID Película"
+
+msgid "ID TVShow"
+msgstr "ID Serie"
+
+msgid "Status of server processes"
+msgstr "Procesos del servidor"
+
+msgid "Check server status"
+msgstr "Comprobar estado del servidor"
+
+msgid "Searching content, wait a moment..."
+msgstr "Buscar contenido, espere un momento ..."
+
+msgid "Searching and extracting data..."
+msgstr "Buscando y extrayendo datos ..."
+
+msgid "Data found, completed process!"
+msgstr "Datos encontrados, proceso terminado!"
+
+msgid "Error, no data..."
+msgstr "Error, no hay datos ..."
+
+msgid "Adding data..."
+msgstr "Publicando contenido..."
+
+msgid "Adding content to the database..."
+msgstr "Agregando contenido a la base de datos..."
+
+msgid "Process completed!"
+msgstr "Proceso completado!"
+
+msgid "Content could not be added!"
+msgstr "El contenido no se puede añadir!"
+
+msgid "Server status query..."
+msgstr "Consultando estado del servidor..."
+
+msgid "Verification completed!"
+msgstr "Verificación completada!"
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "content already exists"
+msgstr "el contenido ya existe"
+
+msgid "imported"
+msgstr "importado"
+
+msgid "Next page"
+msgstr "Siguiente página"
+
+msgid "Results in movies: page"
+msgstr "Resultados en películas: pagina"
+
+msgid "titles found"
+msgstr "títulos encontrados"
+
+msgid "Results in TVShows: page"
+msgstr "Resultados en series: pagina"
+
+msgid "there are"
+msgstr "hay"
+
+msgid "Update Rating"
+msgstr "Actualizar IMDb ratings"
+
+msgid "Add row"
+msgstr "Añadir nueva fila"
+
+msgid "Send link(s)"
+msgstr "Enviar enlace(s)"
+
+msgid "Shared"
+msgstr "Compartido"
+
+msgid "Data send.."
+msgstr "Enviar datos"
+
+msgid "Updating data.."
+msgstr "Actualizando datos.."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Pending review"
+msgstr "Moderación pendiente"
+
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgid "Links Shared"
+msgstr "Enlaces compartidos"
+
+msgid "Manage pending links"
+msgstr "Administrar mensajes pendientes"
+
+msgid "Content published correctly.."
+msgstr "Contenido publicado correctamente.."
+
+msgid "Sign out"
+msgstr "Cerrar sesión"
+
+msgid "My collection"
+msgstr "Mi colección"
+
+msgid "Collection"
+msgstr "Colección"
+
+msgid "About"
+msgstr "Sobre mi"
+
+msgid "Load more"
+msgstr "Cargar mas"
+
+msgid "Select font-family by Google Fonts"
+msgstr "Seleccionar font-family por Google Fonts"
+
+msgid "Choose a color"
+msgstr "Elegir color"
+
+msgid "Primary color"
+msgstr "Color principal"
+
+msgid "Background container"
+msgstr "Fondo del contenedor"
+
+msgid "Add only CSS code"
+msgstr "Añadir solo código CSS"
+
+msgid "Font family"
+msgstr "Font family"
+
+msgid "Order"
+msgstr "Orden"
+
+msgid "Slider controls"
+msgstr "Slider control"
+
+msgid "Items numbers"
+msgstr "Numero de  articulos"
+
+msgid "Number items shown"
+msgstr "Numero de artículos para mostrar"
+
+msgid "Enable Slider"
+msgstr "Habilitar slider"
+
+msgid "Enable random content"
+msgstr "Habilitar contenido aleatorio"
+
+msgid "Enable scrolling"
+msgstr "Habilitar Scrolling"
+
+msgid "DooPlay - Genres list"
+msgstr "DooPlay - Lista de generos"
+
+msgid "Full list of genres"
+msgstr "Lista completa de géneros publicados"
+
+msgid "DooPlay - Release year list"
+msgstr "DooPlay - Lista Años de estreno"
+
+msgid "Full list release year"
+msgstr "Lista completa Años de estreno"
+
+msgid "Sending data"
+msgstr "Enviando datos"
+
+msgid "Choose order in which you want to display your content"
+msgstr "Elegir orden en el que desea mostrar su contenido"
+
+msgid "Filter for year"
+msgstr "Filtrar por año"
+
+msgid "Search title"
+msgstr "Buscar titulos"
+
+msgid "Import ID"
+msgstr "Importar ID"
+
+msgid "Search content"
+msgstr "Buscar contenido"
+
+msgid "Search a title.."
+msgstr "Buscar un titulo.."
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Example"
+msgstr "Ejemplo"
