@@ -97,7 +97,7 @@ if($_GET['manually']=='true') {
 
 <div id="info" class="sbox fixidtab">
 	<h2><?php _d('Synopsis'); ?></h2>
-	<div class="wp-content">
+	<div class="wp-content" style="border-bottom:none;margin-bottom:0px;padding-bottom:0px">
 		<?php the_content(); ?>
 		<div id="dt_galery" class="galeria">
 			<?php dt_get_images("w300", $post->ID); ?>
@@ -109,20 +109,6 @@ if($_GET['manually']=='true') {
 	<div class="custom_fields">
 		<b class="variante"><?php _d('Original title'); ?></b>
 		<span class="valor"><?php echo $d; ?></span>
-	</div>
-	<?php } ?>
-
-	<?php if($d = $dt_date1) { ?>
-	<div class="custom_fields">
-		<b class="variante"><?php _d('Firt air date'); ?></b>
-		<span class="valor"><?php echo $d->format(DT_TIME); ?></span>
-	</div>
-	<?php } ?>
-
-	<?php if($d = $dt_date2) { ?>
-	<div class="custom_fields">
-		<b class="variante"><?php _d('Last air date'); ?></b>
-		<span class="valor"><?php echo $d->format(DT_TIME); ?></span>
 	</div>
 	<?php } ?>
 

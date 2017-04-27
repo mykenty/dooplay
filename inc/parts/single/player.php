@@ -32,6 +32,10 @@ $ads_300	= get_option('dt_player_ads_300');
 			<div id="option-<?php echo $numerado; ?>" class="play-box-iframe fixidtab">
 				<<?php echo 'iframe'; ?> class="metaframe rptss" src="<?php echo $field['url']; ?>" frameborder="0" allowfullscreen></iframe>
 			</div>
+		<?php } if($field['select'] == 'youtube') {  ?>
+			<div id="option-<?php echo $numerado; ?>" class="play-box-iframe fixidtab">
+				<<?php echo 'iframe'; ?> class="metaframe rptss" src="https://www.youtube.com/embed/<?php echo $field['url']; ?>?autoplay=1&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
 		<?php } if($field['select'] == 'mp4') {  ?>
 			<div id="option-<?php echo $numerado; ?>" class="play-box-mp4 fixidtab">
 				<?php //echo do_shortcode('[video src="' . $field['url'] .'" width="779px" autoplay="false"]'); ?>

@@ -774,8 +774,8 @@ body.page-template-top_imdb .module .content .items .item .poster .rating {
 #seasons .se-c .se-a ul.episodios li .episodiotitle {
     float:left;
     padding:10px;
-    width:calc(100% - 50px);
-    padding-left:160px;
+    width:100%;
+    padding-left:110px;
     position:absolute;
     text-overflow:ellipsis;
     white-space:nowrap;

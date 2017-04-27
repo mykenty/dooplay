@@ -8,6 +8,6 @@
 			<?php if($data = new DateTime(dt_get_meta('air_date'))) { ?><span><?php echo $data->format(DT_TIME); ?></span><?php } } ?>
 		</div>
 		</a>
-		<span class="item_type"><?php if($d = get_post_type() == 'movies') { _d('Movie'); } if($d = get_post_type() == 'tvshows') { _d('TV'); } ?><span>
+		<span class="item_type"><?php if($d = get_post_type() == 'movies') { _d('Video'); } if($d = get_post_type() == 'tvshows') { _d('Album'); } ?><span>
 	</div>
 </article>

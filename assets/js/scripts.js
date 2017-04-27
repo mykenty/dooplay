@@ -89,7 +89,7 @@ jQuery(document).ready(function($) {
 	})
 	
 	$(".content").load(function() {
-		$("#tvload").css("display", "none")
+		$("#tvload2").css("display", "none")
 	})
 			
 	$(".content").ready(function() {

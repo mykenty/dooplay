@@ -17,7 +17,7 @@ $dt_player = get_post_meta($post->ID, 'repeatable_fields', true);
 	$thumb_url = wp_get_attachment_image_src($thumb_id,'full', true); 
 ?>
 <style>
-#seasons .se-c .se-a ul.episodios li.mark-<?php echo $epis; ?> {opacity: 0.2;}
+#seasons .se-c .se-a ul.episodios li.mark-<?php echo $epis; ?> {background-color:#fff000;}
 </style>
 <div id="single" class="dtsingle">
 	<div id="edit_link"></div>
@@ -25,9 +25,9 @@ $dt_player = get_post_meta($post->ID, 'repeatable_fields', true);
 		<?php  if($dt_player): get_template_part('inc/parts/single/player'); endif; ?>
 		<?php get_template_part('inc/parts/single/listas/pag_episodes'); ?>
 		<div id="info" class="sbox">
-			<h1 class="epih1"><?php echo $serie; ?> <?php echo $temp; ?>x<?php echo $epis; ?></h1>
-			<div itemprop="description" class="wp-content">
-				<h3 class="epih3"><?php echo $name; ?></h3>
+			<h1 class="epih1"><?php echo $name; ?></h1>
+			<div itemprop="description">
+				<h3 class="epih3"><?php echo $serie; ?></h3>
 				<?php the_content(); ?>
 				<?php if($dt_images) { ?>
 				<div id="dt_galery" class="galeria animation-2">
@@ -35,17 +35,17 @@ $dt_player = get_post_meta($post->ID, 'repeatable_fields', true);
 				</div>
 				<?php } ?>
 			</div>
-			<?php if($d = $dt_date) { echo '<span class="date">', $d->format(DT_TIME), '</span>'; } ?>
+			<!--?php if($d = $dt_date) { echo '<span class="date">', $d->format(DT_TIME), '</span>'; } ?-->
 		</div>
 		<div class="sbox">
 			<?php links_social_single($post->ID); ?>
 		</div>
+		<div class="sbox">
+			<h2>Video nhạc cùng album</h2>
+			<?php get_template_part('inc/parts/single/listas/se'); ?>
+		</div>
 		<div class="box_links">
 			<?php get_template_part('inc/parts/single/listas/links'); ?>
-		</div>
-		<div class="sbox">
-			<h2><?php echo $serie; ?> <?php _d('season'); ?> <?php echo $temp; ?></h2>
-			<?php get_template_part('inc/parts/single/listas/se'); ?>
 		</div>
 		<?php get_template_part('inc/parts/comments'); ?> 
 	</div>
