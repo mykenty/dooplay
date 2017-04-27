@@ -85,11 +85,14 @@ jQuery(document).ready(function($) {
 	})
 
 	$(".content").ready(function() {
-		$("#tvload").css("display", "none")
+		$("#tvload").css("display", "none");
+		$("#tvload2").css("display", "none");
+		$("#tvload3").css("display", "none");
+		$("#tvload4").css("display", "none");
 	})
 	
 	$(".content").load(function() {
-		$("#tvload2").css("display", "none")
+		$("#tvload").css("display", "none")
 	})
 			
 	$(".content").ready(function() {

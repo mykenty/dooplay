@@ -149,6 +149,58 @@ jQuery(document).ready(function($) {
     itemsTabletSmall: false,
     itemsMobile : [479,3],
   });
+
+	var owl2 = $("#dt-tvshows2");
+	owl2.owlCarousel({
+	<?php if(get_option('dt_mt_autoplay_slider') == 'true') { ?>
+	autoPlay: 3500, 
+	<?php } else { ?>
+	autoPlay: false,
+	<?php } ?>
+	items : 5,
+	stopOnHover : true,
+	pagination : false,
+	itemsDesktop : [1199,5],
+    itemsDesktopSmall : [980,5],
+    itemsTablet: [768,4],
+    itemsTabletSmall: false,
+    itemsMobile : [479,3],
+  });
+
+	var owl3 = $("#dt-tvshows3");
+	owl3.owlCarousel({
+	<?php if(get_option('dt_mt_autoplay_slider') == 'true') { ?>
+	autoPlay: 3500, 
+	<?php } else { ?>
+	autoPlay: false,
+	<?php } ?>
+	items : 5,
+	stopOnHover : true,
+	pagination : false,
+	itemsDesktop : [1199,5],
+    itemsDesktopSmall : [980,5],
+    itemsTablet: [768,4],
+    itemsTabletSmall: false,
+    itemsMobile : [479,3],
+  });
+
+	var owl4 = $("#dt-tvshows4");
+	owl4.owlCarousel({
+	<?php if(get_option('dt_mt_autoplay_slider') == 'true') { ?>
+	autoPlay: 3500, 
+	<?php } else { ?>
+	autoPlay: false,
+	<?php } ?>
+	items : 5,
+	stopOnHover : true,
+	pagination : false,
+	itemsDesktop : [1199,5],
+    itemsDesktopSmall : [980,5],
+    itemsTablet: [768,4],
+    itemsTabletSmall: false,
+    itemsMobile : [479,3],
+  });
+
   // Custom Navigation Events
 <?php if(get_option('dt_mt_autoplay_slider') == 'true') { } else { ?>
   $(".next4").click(function(){
@@ -156,6 +208,27 @@ jQuery(document).ready(function($) {
   })
   $(".prev4").click(function(){
     owl.trigger('owl.prev');
+  })
+
+	$(".next5").click(function(){
+    owl.trigger('owl2.next');
+  })
+  $(".prev5").click(function(){
+    owl.trigger('owl2.prev');
+  })
+
+	$(".next6").click(function(){
+    owl.trigger('owl3.next');
+  })
+  $(".prev6").click(function(){
+    owl.trigger('owl3.prev');
+  })
+
+		$(".next7").click(function(){
+    owl.trigger('owl4.next');
+  })
+  $(".prev7").click(function(){
+    owl.trigger('owl4.prev');
   })
 <?php } ?>
 	  // end botons

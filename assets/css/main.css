@@ -955,6 +955,9 @@ a.a_f_sbox i {
 #dt-movies .item,
 #dt-seasons .item,
 #dt-tvshows .item,
+#dt-tvshows2 .item,
+#dt-tvshows3 .item,
+#dt-tvshows4 .item,
 .owl-carousel .owl-item,
 .slider {
     width:100%
@@ -984,6 +987,9 @@ a.a_f_sbox i {
 #dt-movies,
 #dt-seasons,
 #dt-tvshows,
+#dt-tvshows2,
+#dt-tvshows3,
+#dt-tvshows4,
 #slider-movies,
 #slider-movies-tvshows,
 #slider-master,
