@@ -975,7 +975,8 @@ a.a_f_sbox i {
 }
 .module .content .items .episodes .poster img {
     margin-top:-55%;
-    position:absolute
+    position:absolute;
+    top:96px;
 }
 .module .content .items .episodes .poster .season_m {
     padding:10% 0

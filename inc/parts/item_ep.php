@@ -6,12 +6,35 @@ $name = dt_get_meta("episode_name");
 $serie = dt_get_meta("serie");
 $dates = dt_get_meta("air_date");
 $dt_player	= get_post_meta($post->ID, 'repeatable_fields', true); 
+$thumb = "";
+
+foreach ( $dt_player as $field ) {
+	if($field['select'] == 'youtube') {
+		$thumb = 'http://i3.ytimg.com/vi/'.$field['url'].'/hqdefault.jpg';
+		break;
+	}
+} 
+
 ?>
 <article class="item se <?php echo get_post_type(); ?>" id="post-<?php the_id(); ?>">
 	<a href="<?php the_permalink() ?>">
 	<div class="poster">
 		
-		<img src="<?php if($thumb_id = get_post_thumbnail_id()) { $thumb_url = wp_get_attachment_image_src($thumb_id,'dt_episode_a', true); echo $thumb_url[0]; } else { dt_image('dt_backdrop', $post->ID, 'w300'); } ?>" alt="<?php the_title(); ?>">
+		<img src="<?php 
+		if($thumb == "")
+		{
+			if($thumb_id = get_post_thumbnail_id()) { 
+				$thumb_url = wp_get_attachment_image_src($thumb_id,'dt_episode_a', true); 
+				echo $thumb_url[0]; 
+			} else { 
+				dt_image('dt_backdrop', $post->ID, 'w300'); 
+			}
+		}
+		else {
+			echo $thumb;
+		}
+		 ?>" 
+		alt="<?php the_title(); ?>">
 		<div class="season_m animation-1">
 			
 				<!--span class="b"><?php echo $se; ?>x<?php echo $ep; ?></span-->

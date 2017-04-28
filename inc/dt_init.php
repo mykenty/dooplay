@@ -767,10 +767,11 @@ function dt_image($name, $id, $size, $type = false, $return = false, $gtsml = fa
     foreach ($val as $valor) {
         if (!empty($valor)) {
             if (substr($valor, 0, 1) == "/") {
-                $mgsl[] = 'https://image.tmdb.org/t/p/' . $size . '' . $valor . '';
+                $mgsl[] = '/wp-content/' . $valor . '';
             } else {
                 $mgsl[] = $valor;
             }
+			$mgsl[] = $valor;
             $count++;
         } else {
             if ($name == "dt_poster" && $img == NULL) {
@@ -1134,10 +1135,16 @@ add_action('after_setup_theme', 'imagenes_size');
 */
 function mostrar_trailer_iframe($id) {
 	if (!empty($id)) { 
-	$val = str_replace(
-		array("[","]",),
-		array('<'. 'iframe' .' width="760" height="429" class="rptss" src="https://www.youtube.com/embed/','?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0" frameborder="0" allowfullscreen></iframe>',),$id);
-		echo $val;
+		if(strpos($id, '[') !== false) {
+			$val = str_replace(
+					array("[","]",),
+					array('<'. 'iframe' .' width="760" height="429" class="rptss" src="https://www.youtube.com/embed/','?rel=0&amp;controls=1&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>',),$id);
+					echo $val;
+		}
+		else{
+			echo do_shortcode('[videoapi link="https://drive.google.com/open?id='.$id.'"]');
+		}
+	
 	} 
 }
 
