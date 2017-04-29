@@ -333,7 +333,7 @@ header.main .hbox .search form button[type=submit] {
     top:0;
     right:0;
     overflow:hidden;
-    padding: 10px;
+    xpadding: 10px;
 }
 .module .content {
     width:calc(100% - 320px);
@@ -541,7 +541,7 @@ footer.main .fbox .fmenu ul li a {
     font-weight:400
 }
 footer.main .fbox .copy {
-    float:right;
+    text-align:center;
     padding:20px 0
 }
 .pagination {
@@ -958,6 +958,7 @@ a.a_f_sbox i {
 #dt-tvshows2 .item,
 #dt-tvshows3 .item,
 #dt-tvshows4 .item,
+#dt-tvshows5 .item,
 .owl-carousel .owl-item,
 .slider {
     width:100%
@@ -976,7 +977,7 @@ a.a_f_sbox i {
 .module .content .items .episodes .poster img {
     margin-top:-55%;
     position:absolute;
-    top:96px;
+    top:115px;
 }
 .module .content .items .episodes .poster .season_m {
     padding:10% 0
@@ -991,6 +992,7 @@ a.a_f_sbox i {
 #dt-tvshows2,
 #dt-tvshows3,
 #dt-tvshows4,
+#dt-tvshows5,
 #slider-movies,
 #slider-movies-tvshows,
 #slider-master,
@@ -3259,7 +3261,7 @@ h1.top-imdb-h1 {
     font-size:25px!important
 }
 .search-page {
-    max-width:600px
+    xmax-width:600px
 }
 .search-page .result-item {
     position:relative;
@@ -5025,4 +5027,7 @@ video.dt_player {
     font-family: icomoon!important;
     content: "\f0da";
     margin-right: 10px;
+}
+@media only screen and (max-width: 1200px) {
+    .module .content .items .episodes .poster img{top:96px}
 }

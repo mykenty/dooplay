@@ -201,34 +201,63 @@ jQuery(document).ready(function($) {
     itemsMobile : [479,3],
   });
 
+	var owl5 = $("#dt-tvshows5");
+	owl5.owlCarousel({
+	<?php if(get_option('dt_mt_autoplay_slider') == 'true') { ?>
+	autoPlay: 3500, 
+	<?php } else { ?>
+	autoPlay: false,
+	<?php } ?>
+	items : 5,
+	stopOnHover : true,
+	pagination : false,
+	itemsDesktop : [1199,5],
+    itemsDesktopSmall : [980,5],
+    itemsTablet: [768,4],
+    itemsTabletSmall: false,
+    itemsMobile : [479,3],
+  });
+
   // Custom Navigation Events
 <?php if(get_option('dt_mt_autoplay_slider') == 'true') { } else { ?>
   $(".next4").click(function(){
+		console.log('owl.next');
+		console.log(owl);
     owl.trigger('owl.next');
   })
   $(".prev4").click(function(){
+		console.log(owl);
     owl.trigger('owl.prev');
   })
 
 	$(".next5").click(function(){
-    owl.trigger('owl2.next');
+		console.log(owl2);
+    owl2.trigger('owl.next');
   })
   $(".prev5").click(function(){
-    owl.trigger('owl2.prev');
+		console.log(owl2);
+    owl2.trigger('owl.prev');
   })
 
 	$(".next6").click(function(){
-    owl.trigger('owl3.next');
+    owl3.trigger('owl.next');
   })
   $(".prev6").click(function(){
-    owl.trigger('owl3.prev');
+    owl3.trigger('owl.prev');
   })
 
-		$(".next7").click(function(){
-    owl.trigger('owl4.next');
+	$(".next7").click(function(){
+    owl4.trigger('owl.next');
   })
   $(".prev7").click(function(){
-    owl.trigger('owl4.prev');
+    owl4.trigger('owl.prev');
+  })
+
+	$(".next8").click(function(){
+    owl5.trigger('owl.next');
+  })
+  $(".prev8").click(function(){
+    owl5.trigger('owl.prev');
   })
 <?php } ?>
 	  // end botons

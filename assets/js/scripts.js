@@ -89,6 +89,7 @@ jQuery(document).ready(function($) {
 		$("#tvload2").css("display", "none");
 		$("#tvload3").css("display", "none");
 		$("#tvload4").css("display", "none");
+		$("#tvload5").css("display", "none");
 	})
 	
 	$(".content").load(function() {
