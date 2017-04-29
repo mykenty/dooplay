@@ -84,9 +84,9 @@ header.main .hbox .search:hover>form {
     color:#408bea
 }
 .module .content .items .item .dtinfo {
-    background:#fff;
-    border-color:#ECEFF5;
-    box-shadow:0 10px 5px -7px rgba(0, 0, 0, .09)
+    background:#fffbdb;
+    border-color:#cccccc;
+    box-shadow:0 10px 5px -7px rgba(0, 0, 0, .09);
 }
 .sidemenu h2,
 .sidemenu ul.genres li {
@@ -166,14 +166,14 @@ footer.main .fbox .fmenu ul li a:hover {
     background:#fff
 }
 .dtinfo .texto .degradado {
-    background-color:transparent;
+    /*background-color:transparent;
     background-image:-moz-linear-gradient(rgba(0, 0, 0, 0), #fff);
     background-image:-webkit-linear-gradient(rgba(0, 0, 0, 0), #fff);
     background-image:linear-gradient(rgba(0, 0, 0, 0), #fff);
-    background-repeat:repeat-x
+    background-repeat:repeat-x*/
 }
 .dtinfo .rating .datareviews .datarating span.rating-stars-a {
-    color:#ECEFF5
+    color:#9a9a9a
 }
 .dtinfo .rating .datareviews .datarating span.rating-stars-b {
     color:#FFD600
@@ -182,7 +182,7 @@ footer.main .fbox .fmenu ul li a:hover {
     color:#7488A7
 }
 .dtinfo .rating .rating_right {
-    background:#F5F7FA;
+    xbackground:#F5F7FA;
     color:#8F95A0
 }
 .sidemenu ul.year li a {
