@@ -6,7 +6,7 @@ if(get_option('dt_mm_random_order') == 'true') {
 	$rand = '';	
 } ?>
 <header>
-<h2><?php echo get_option('dt_mm_title','Movies'); ?></h2>
+<h2>Tuyển tập ca khúc<?php //echo get_option('dt_mm_title','Movies'); ?></h2>
 <?php if( get_option('dt_mm_activate_slider') == 'true') { if(get_option('dt_mm_autoplay_slider') == 'true') { } else { ?>
 <div class="nav_items_module">
   <a class="btn prev3"><i class="icon-caret-left"></i></a>

@@ -80,7 +80,7 @@ if (have_posts()) :while (have_posts()) : the_post(); set_dt_views(get_the_ID())
 </div>
 
 <div id="info" class="sbox fixidtab">
-<h2><?php _d('Synopsis'); ?></h2>
+<!--<h2><?php //_d('Synopsis'); ?></h2>-->
 <div itemprop="description" class="wp-content">
 <?php the_content(); ?>
 
