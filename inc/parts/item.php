@@ -22,11 +22,14 @@ $dt_player	= get_post_meta($post->ID, 'repeatable_fields', true);
 		<?php } $i++; } endif; ?>
 		<a href="<?php the_permalink() ?>"><?php the_title(); ?></a>
 		</h3>
-		<?php if($mostrar = $terms = strip_tags( $terms = get_the_term_list( $post->ID, 'dtyear'))) {  ?>
+		<!--<?php if($mostrar = $terms = strip_tags( $terms = get_the_term_list( $post->ID, 'dtyear'))) {  ?>
 		<span><?php echo $mostrar; ?></span>
 		<?php } else { ?>
 		<span>&nbsp;</span>
-		<?php } ?>
+		<?php } ?>-->
 	</div>
-	<?php if(is_archive()) { get_template_part('inc/parts/info_tip'); } ?>
+	
+	<?php 
+	$home = $_SERVER['REQUEST_URI'] == '/' ? true : false;
+	if(is_archive() && !$home) { get_template_part('inc/parts/info_tip'); } ?>
 </article>
