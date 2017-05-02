@@ -2,6 +2,7 @@
 
 function dt_get_sample_options() {
 	$options = array(
+		__d('VideoAPI') => 'videoapi',
 		__d('Youtube') => 'youtube',
 		__d('URL Iframe') => 'iframe',
 		__d('URL MP4 file') => 'mp4',
