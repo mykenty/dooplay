@@ -17,7 +17,7 @@ if(get_option('dt_mt_random_order') == 'true') {
 <span><?php //echo total_series(); ?> <?php if($url = get_option('dt_tvshows_slug','tvshows')) { ?><a href="<?php echo esc_url( home_url() ) .'/?dtnetworks=asia' ?>" class="see-all"><?php _d('Xem tất cả'); ?></a><?php } ?></span>
 </header>
 <div id="tvload" class="load_modules"><?php _d('Loading..');?></div>
-<div <?php if(get_option('dt_mt_activate_slider') == 'true') { echo 'id="dt-tvshows"'; } ?> class="items">
+<div <?php if(get_option('dt_mt_activate_slider') == 'true') { echo 'id="dt-tvshows"'; } ?> class="items" style="border-bottom:none">
 	<?php query_posts( array('post_type' => array('tvshows'), 'dtnetworks' => array('Asia'), 'showposts' => get_option('dt_mt_number_items','10'), 'orderby' => $rand, 'order' => 'desc')); ?>
 	<?php while ( have_posts() ) : the_post(); ?>
 	<?php get_template_part('inc/parts/item'); ?>
@@ -25,7 +25,16 @@ if(get_option('dt_mt_random_order') == 'true') {
 </div>
 
 <!-- THUY NGA PARIS  -->
-<header>
+<!-- AlbumVang --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0896031801409434"
+     data-ad-slot="9653309427"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<header style="margin-top:80px">
 <h2>Thúy Nga Paris</h2>
 <?php if(get_option('dt_mt_activate_slider') == 'true') { if(get_option('dt_mt_autoplay_slider') == 'true') { } else { ?>
 <div class="nav_items_module">
@@ -74,7 +83,7 @@ if(get_option('dt_mt_random_order') == 'true') {
 <span><?php //echo total_series(); ?> <?php if($url = get_option('dt_tvshows_slug','tvshows')) { ?><a href="<?php echo esc_url( home_url() ) .'/?dtnetworks=liveshow'; ?>" class="see-all"><?php _d('Xem tất cả'); ?></a><?php } ?></span>
 </header>
 <div id="tvload4" class="load_modules"><?php _d('Loading..');?></div>
-<div <?php if(get_option('dt_mt_activate_slider') == 'true') { echo 'id="dt-tvshows4"'; } ?> class="items">
+<div <?php if(get_option('dt_mt_activate_slider') == 'true') { echo 'id="dt-tvshows4"'; } ?> class="items" style="border-bottom:none">
 	<?php query_posts( array('post_type' => array('tvshows'), 'dtnetworks' => array('Liveshow'), 'showposts' => get_option('dt_mt_number_items','10'), 'orderby' => $rand, 'order' => 'desc')); ?>
 	<?php while ( have_posts() ) : the_post(); ?>
 	<?php get_template_part('inc/parts/item'); ?>
@@ -82,7 +91,16 @@ if(get_option('dt_mt_random_order') == 'true') {
 </div>
 
 <!-- KHAC  -->
-<header>
+<!-- AlbumVang --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0896031801409434"
+     data-ad-slot="9653309427"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<header style="margin-top:80px">
 <h2>Khác</h2>
 <?php if(get_option('dt_mt_activate_slider') == 'true') { if(get_option('dt_mt_autoplay_slider') == 'true') { } else { ?>
 <div class="nav_items_module">
