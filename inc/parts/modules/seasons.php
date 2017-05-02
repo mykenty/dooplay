@@ -14,7 +14,7 @@ if(get_option('dt_ms_random_order') == 'true') {
   <a class="btn next2"><i class="icon-caret-right"></i></a>
 </div>
 <?php } ?>
-<span><?php echo total_temporadas(); ?> <?php if($url = get_option('dt_seasons_slug','seasons')) { ?><a href="<?php echo esc_url( home_url() ) .'/'. $url .'/'; ?>" class="see-all"><?php _d('See all'); ?></a><?php } ?></span>
+<span><?php echo total_temporadas(); ?> <?php if($url = get_option('dt_seasons_slug','seasons')) { ?><a href="<?php echo esc_url( home_url() ) .'/?post_type='. $url; ?>" class="see-all">Xem tất cả</a><?php } ?></span>
 </header>
 <div id="seaload" class="load_modules"><?php _d('Loading..');?></div>
 <div id="dt-seasons" class="animation-2 items">

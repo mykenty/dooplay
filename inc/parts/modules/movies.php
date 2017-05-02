@@ -13,7 +13,7 @@ if(get_option('dt_mm_random_order') == 'true') {
   <a class="btn next3"><i class="icon-caret-right"></i></a>
 </div>
 <?php } } ?>
-<span><?php echo total_peliculas(); ?> <?php if($url = get_option('dt_movies_slug','movies')) { ?><a href="<?php echo esc_url( home_url() ) .'/'. $url .'/'; ?>" class="see-all"><?php _d('See all'); ?></a><?php } ?></span>
+<span><?php echo total_peliculas(); ?> <?php if($url = get_option('dt_movies_slug','movies')) { ?><a href="<?php echo esc_url( home_url() ) .'/?post_type='. $url; ?>" class="see-all">Xem tất cả</a><?php } ?></span>
 </header>
 <div id="movload" class="load_modules"><?php _d('Loading..');?></div>
 <div <?php if(get_option('dt_mm_activate_slider') == 'true') { echo 'id="dt-movies"'; } ?> class="items">
