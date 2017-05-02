@@ -406,7 +406,7 @@ jQuery(document).ready(function($) {
 });
 <?php } ?>
 
-<?php if(is_single()) { global $user_ID; if( $user_ID ) : if( current_user_can('level_10') ) : ?>
+<?php if(1==1) { global $user_ID; if( $user_ID ) : if( current_user_can('level_10') ) : ?>
 jQuery(document).ready(function($) {
     $(".dtload").click(function() {
         var o = $(this).attr("id");
@@ -426,17 +426,15 @@ add_action('wp_footer', 'owl_controls');
 
 
 /* facebook JS */
-function dt_fb_js() { if(is_single()) { if( get_option('dt_commets') == 'comtfb') { ?>
+function dt_fb_js() { if(1==1) { if( get_option('dt_commets') == 'comtfb') { ?>
 <div id="fb-root"></div>
-<script type="text/javascript">
-	(function(d, s, id) {
+<script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/<?php echo get_option('dt_app_language_facebook'); ?>/sdk.js#xfbml=1&version=v2.6&appId=<?php echo get_option('dt_app_id_facebook'); ?>";
+  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.9";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
+}(document, 'script', 'facebook-jssdk'));</script>
 <?php	
 		} 
 	} 
