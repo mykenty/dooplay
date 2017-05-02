@@ -61,9 +61,9 @@ if($_GET['manually']=='true') {
 
 <div class="single_tabs">
 	<ul id="section" class="smenu idTabs">
-	<li><a href="#info"><?php _d('Info'); ?></a></li>
-	<?php if($dt_clgnrt =='1') { ?><li><a href="#episodes"><?php _d('Episodes'); ?></a></li><?php } ?>
-	<?php if($dt_cast) { ?><li><a href="#cast"><?php _d('Cast'); ?></a></li><?php } ?>
+	<li><a href="#info">Thông tin</a></li>
+	<?php if($dt_clgnrt =='1') { ?><li><a href="#episodes">List ca khúc</a></li><?php } ?>
+	<?php if($dt_cast) { ?><li><a href="#cast">Ca nhạc sĩ</a></li><?php } ?>
 	<!--<?php if($dt_trailer) { ?><li><a href="#trailer"><?php _d('Trailer'); ?></a></li><?php } ?>-->
 	</ul>
 	<?php if ( is_user_logged_in() ) { echo get_simple_likes_button( get_the_ID() ); } ?>
@@ -98,11 +98,13 @@ if($_GET['manually']=='true') {
 <div id="info" class="sbox fixidtab">
 	<!--<h2><?php //_d('Synopsis'); ?></h2>-->
 	<div class="wp-content" style="border-bottom:none;margin-bottom:0px;padding-bottom:0px">
+	<?php if($trailers != "") { ?>
 		<div class="videobox">
 			<div class="embed">
 				<?php $trailers = get_post_meta($post->ID, "youtube_id", $single = true); mostrar_trailer_iframe($trailers) ?>
 			</div>
 		</div>
+	<?php } ?>
 		<?php the_content(); ?>
 		<div id="dt_galery" class="galeria">
 			<?php dt_get_images("w300", $post->ID); ?>
