@@ -959,9 +959,17 @@ a.a_f_sbox i {
 .module .content .items .movies {
     min-height:300px;
 }
-.module .content .items .tvshows {
+#dt-tvshows article {
     min-height:330px;
 }
+#dt-tvshows2 article,
+#dt-tvshows3 article,
+#dt-tvshows4 article,
+#dt-tvshows5 article
+{
+    min-height:0px ! important;
+}
+
 
 #dt-episodes .item,
 #dt-movies .item,
