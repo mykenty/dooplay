@@ -382,8 +382,12 @@ header.main .hbox .search form button[type=submit] {
     float:left;
     margin:0;
     padding:10px;
-    position:relative
+    position:relative;
+    min-height: 310px;
 }
+
+#dt-episodes .item {    min-height: 0px;}
+
 .module .content .items .se {
     width:20%;
     margin:0;
@@ -429,7 +433,7 @@ header.main .hbox .search form button[type=submit] {
     width:100%;
     float:left;
     text-overflow:ellipsis;
-    white-space:nowrap;
+    xwhite-space:nowrap;
     overflow:hidden
 }
 .module .content .items .item .data span {
@@ -949,8 +953,16 @@ a.a_f_sbox i {
     line-height:20px
 }
 .module .content .items .episodes {
-    width:33.33%
+    width:33.33%;
+    min-height:0px;
 }
+.module .content .items .movies {
+    min-height:300px;
+}
+.module .content .items .tvshows {
+    min-height:330px;
+}
+
 #dt-episodes .item,
 #dt-movies .item,
 #dt-seasons .item,

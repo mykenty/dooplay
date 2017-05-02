@@ -766,11 +766,11 @@ function dt_image($name, $id, $size, $type = false, $return = false, $gtsml = fa
     $count  = 0;
     foreach ($val as $valor) {
         if (!empty($valor)) {
-            if (substr($valor, 0, 1) == "/") {
-                $mgsl[] = '/wp-content/' . $valor . '';
-            } else {
-                $mgsl[] = $valor;
-            }
+            // if (substr($valor, 0, 1) == "/") {
+            //     $mgsl[] = '/wp-content/' . $valor . '';
+            // } else {
+            //     $mgsl[] = $valor;
+            // }
 			$mgsl[] = $valor;
             $count++;
         } else {
@@ -779,6 +779,7 @@ function dt_image($name, $id, $size, $type = false, $return = false, $gtsml = fa
             }
         }
     }
+
     if ($type) {
         $new = rand(0, $count);
         if ($mgsl[$new] != NULL) {
@@ -798,7 +799,20 @@ function dt_image($name, $id, $size, $type = false, $return = false, $gtsml = fa
         if ($return) {
             return $mgsl[0];
         } else {
-            echo $mgsl[0];
+
+			if($thumb_id = get_post_thumbnail_id()) { 
+				$thumb_url = wp_get_attachment_image_src($thumb_id,'full', true); 
+				echo $thumb_url[0]; 
+			} else { 
+				dt_image('dt_backdrop', $post->ID, 'original'); 
+			}
+
+			// if($mgsl[0] == NULL){
+			// 	echo $mgsl[0];
+			// }
+			// else{
+			// 	echo $mgsl[0];
+			// }
         }
     }
 }
@@ -1183,6 +1197,12 @@ function dt_get_images($size, $id) {
             }
         }
     }
+}
+
+function dt_get_youtubeimage($youtube) {
+    echo '<div class="g-item">';
+	echo '<img src="http://i3.ytimg.com/vi/'.$youtube.'/hqdefault.jpg" style="top:103px" />';
+	echo '</div>';
 }
 
 /* Register menu navigation
