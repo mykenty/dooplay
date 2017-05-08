@@ -19,7 +19,7 @@ foreach($capitulos as $key_c=>$value_c){
 	if($value_c['season'] == $current_season){
 ?>
 <li class="mark-<?php echo data_of('episodio',$value_c['id']); ?>">
-	<div class="imagen"><a href="<?php echo get_permalink( $value_c['id'] ); if(data_of('repeatable_fields', $value_c['id'])) { echo '?player=option-1'; } ?>"><img src="<?php if($thumb_id = get_post_thumbnail_id($value_c['id'])) { $thumb_url = wp_get_attachment_image_src($thumb_id,'dt_episode_a', true); echo $thumb_url[0]; } else { dt_image('dt_backdrop', $value_c['id'], 'w150'); } ?>"></a></div>
+	<div class="imagen"><a href="<?php echo get_permalink( $value_c['id'] ); if(data_of('repeatable_fields', $value_c['id'])) { echo ''; } ?>"><img src="<?php if($thumb_id = get_post_thumbnail_id($value_c['id'])) { $thumb_url = wp_get_attachment_image_src($thumb_id,'dt_episode_a', true); echo $thumb_url[0]; } else { dt_image('dt_backdrop', $value_c['id'], 'w150'); } ?>"></a></div>
 	<div class="episodiotitle">
 	<a href="<?php echo get_permalink( $value_c['id'] ); if(data_of('repeatable_fields', $value_c['id'])) { echo ''; } ?>"><?php if(data_of('episode_name', $value_c['id']) != "N/A") { echo data_of('episode_name', $value_c['id']); } ?></a>
 	</div>
