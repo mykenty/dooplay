@@ -1155,11 +1155,15 @@ function mostrar_trailer_iframe($id) {
 					array('<'. 'iframe' .' width="760" height="429" class="rptss" src="https://www.youtube.com/embed/','?rel=0&amp;controls=1&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>',),$id);
 					echo $val;
 		}
+		elseif(strpos($id, 'sibeol.com') !== false){
+			echo html_entity_decode($id);
+		}
 		else{
 			echo do_shortcode('[videoapi link="https://drive.google.com/open?id='.$id.'"]');
+			//echo ('[videoapi link="https://drive.google.com/open?id='.$id.'"]');
 		}
 	
-	} 
+	}
 }
 
 /* Trailer / custom player

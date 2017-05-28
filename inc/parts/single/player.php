@@ -38,7 +38,11 @@ $ads_300	= get_option('dt_player_ads_300');
 			</div>
 		<?php } if($field['select'] == 'videoapi') {  ?>
 			<div id="option-<?php echo $numerado; ?>" class="play-box-iframe fixidtab">
-				<?php echo do_shortcode('[videoapi link="https://drive.google.com/open?id='.$field['url'].'"]'); ?>
+				<?php //echo do_shortcode('[videoapi link="https://drive.google.com/open?id='.$field['url'].'"]'); ?>
+			</div>
+		<?php } if($field['select'] == 'sibeol') {  ?>
+			<div id="option-<?php echo $numerado; ?>" class="play-box-iframe fixidtab">
+				<?php echo html_entity_decode($field['url']); ?>
 			</div>
 		<?php } if($field['select'] == 'mp4') {  ?>
 			<div id="option-<?php echo $numerado; ?>" class="play-box-mp4 fixidtab">

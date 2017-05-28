@@ -2,6 +2,7 @@
 
 function dt_get_sample_options() {
 	$options = array(
+		__d('Sibeol.com') => 'sibeol',
 		__d('VideoAPI') => 'videoapi',
 		__d('Youtube') => 'youtube',
 		__d('URL Iframe') => 'iframe',
