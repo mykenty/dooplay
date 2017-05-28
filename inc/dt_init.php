@@ -1159,7 +1159,7 @@ function mostrar_trailer_iframe($id) {
 			echo html_entity_decode($id);
 		}
 		else{
-			echo do_shortcode('[videoapi link="https://drive.google.com/open?id='.$id.'"]');
+			//echo do_shortcode('[videoapi link="https://drive.google.com/open?id='.$id.'"]');
 			//echo ('[videoapi link="https://drive.google.com/open?id='.$id.'"]');
 		}
 	
