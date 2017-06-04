@@ -1160,7 +1160,7 @@ function mostrar_trailer_iframe($id) {
 		}
 		else{
 			//echo do_shortcode('[videoapi link="https://drive.google.com/open?id='.$id.'"]');
-			//echo ('[videoapi link="https://drive.google.com/open?id='.$id.'"]');
+			echo ('<iframe width="760" height="429" class="rptss" src="https://youtube.googleapis.com/embed/?status=ok&allow_embed=0&=docs&partnerid=30&autoplay=1&docid='.$id.'" frameborder="0" allowfullscreen></iframe>');
 		}
 	
 	}
